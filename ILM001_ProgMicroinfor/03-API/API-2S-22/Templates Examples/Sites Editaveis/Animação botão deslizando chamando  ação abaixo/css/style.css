@@ -1,0 +1,554 @@
+/*
+	Active by TEMPLATE STOCK
+	templatestock.co @templatestock
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+*/
+
+
+/* TABLE OF CONTENTS
+
+	1. Import section
+	2. Basic styles
+	3. Header
+	4. Service Icons
+	5. Subscribe
+	6. Contact
+	7. Footer
+	8. Responsive
+
+*/
+
+
+
+/* 1. IMPORT SECTION */
+
+	@import url("bootstrap.min.css");
+	@import url("font-awesome.min.css");
+	@import url("http://fonts.googleapis.com/css?family=Lato:300,700,700italic&subset=latin,latin-ext");
+	@import url("http://fonts.googleapis.com/css?family=Raleway:300,700&subset=latin,latin-ext");
+
+
+
+
+/* 2. BASIC STYLES */
+
+	html, body {
+		height: 100%;
+	}
+
+	body {
+		font: 16px/1.5 Lato, "Century Gothic", "Trebuchet MS", Helvetica, sans-serif;
+		background-color: #fff;
+		color: #262626;
+		font-weight: 300;
+	}
+
+	a { 
+		color: #262626;
+		transition: all 0.125s ease-in-out 0s;
+		-moz-transition: all 0.125s ease-in-out 0s;
+		-webkit-transition: all 0.125s ease-in-out 0s;
+		-o-transition: all 0.125s ease-in-out 0s;
+		-ms-transition: all 0.125s ease-in-out 0s;
+	}
+
+	a:hover {
+		color: #68c3a3;
+	}
+
+	a, a:hover, a:active, a:focus {
+		outline: 0;
+		border: 0;
+		text-decoration: none;
+	}
+
+	#st-preloader {
+		background: #FFF;
+		bottom: 0;
+		left: 0;
+		position: fixed;
+		right: 0;
+		top: 0;
+		z-index: 9999;
+	}
+
+	p {
+		line-height: 1.5;
+	}
+
+	#pre-status,
+	.preload-placeholder {
+		background-image: url(../images/preloader.gif);
+		background-position: center;
+		background-repeat: no-repeat;
+		height: 40px;
+		left: 50%;
+		margin: -20px 0 0 -20px;
+		position: absolute;
+		top: 50%;
+		width: 40px;
+	}
+
+	.preload-placeholder {
+		background: none;
+		left: 0;
+		margin: 0;
+		text-align: center;
+		top: 65%;
+	}
+
+
+
+/* 3. HEADER */
+
+	.st-header{
+		position: relative;
+		background-image: url(../images/header-bg.jpg);
+		background-position: 50% 0;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+	.header-overlay{
+		position: absolute;
+		background-color: rgba(0, 0, 0, 0.7);
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+
+	.st-header-content{
+		padding-top: 12%;
+	}
+
+	.st-header-title{
+		color: #fff;
+		padding-top: 40px;
+	}
+
+	.st-header-title h2{
+		font-size: 56px;
+		margin-bottom: 20px;
+	}
+
+	.st-header-title h2 span{
+		font-weight: 700;
+		color: #68c3a3;
+	}
+
+	.st-header-title p{
+		
+	}
+
+	.mouse-icon {
+		position: absolute;
+		left: 50%;
+		bottom: 40px;
+		border: 2px solid #fff;
+		border-radius: 16px;
+		height: 50px;
+		width: 30px;
+		margin-left: -17px;
+		display: block;
+		z-index: 10;
+	}
+
+	.mouse-icon:hover, .mouse-icon:active, .mouse-icon:focus{
+		border: 2px solid #fff;
+	}
+
+	.mouse-icon .wheel {
+	    -webkit-animation-name: drop;
+	    -webkit-animation-duration: 1s;
+	    -webkit-animation-timing-function: linear;
+	    -webkit-animation-delay: 0s;
+	    -webkit-animation-iteration-count: infinite;
+	    -webkit-animation-play-state: running;
+	    animation-name: drop;
+	    animation-duration: 1s;
+	    animation-timing-function: linear;
+	    animation-delay: 0s;
+	    animation-iteration-count: infinite;
+	    animation-play-state: running;
+	}
+
+	.mouse-icon .wheel {
+		position: relative;
+		border-radius: 10px;
+		background: #fff;
+		width: 4px;
+		height: 10px;
+		top: 4px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	@-webkit-keyframes drop {
+	    0%   { top:5px;  opacity: 0;}
+	    30%  { top:10px; opacity: 1;}
+	    100% { top:25px; opacity: 0;}
+	}
+
+
+	@keyframes drop	{
+		0%   { top:5px;  opacity: 0;}
+		30%  { top:10px; opacity: 1;}
+		100% { top:25px; opacity: 0;}
+	}
+
+
+/* 4. SERVICE ICONS */
+
+	.service-icons{
+		padding-top: 150px;
+		padding-bottom: 150px;
+	}
+
+	.st-service-box{
+		padding: 0 20px;
+	}
+	
+	.st-service-box span{
+		 font-size: 32px;
+		 color: #68c3a3;
+	}
+
+	.st-service-box h3{
+		font-family: 'Raleway';
+		font-size: 16px;
+		font-weight: 700;
+		color: #262626;
+		margin: 20px 0 0;
+
+	}
+
+	.st-service-box p{
+		font-size: 14px;
+		color: #262626;
+		margin: 20px 0 0;
+	}
+
+	.st-service-box a{
+		font-family: 'Raleway';
+		font-weight: 700;
+		font-size: 14px;
+		color: #262626;
+		display: inline-block;
+		margin: 20px 0 0;
+	}
+
+	.st-service-box a:hover{
+		color: #68c3a3;
+	}
+
+
+/* 5. SUBSCRIBE */
+
+	.subscribe{
+		padding-top: 100px;
+		padding-bottom: 120px;
+		position: relative;
+		background-image: url(../images/subscribe-bg.jpg);
+		background-position: 50% 0;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+	}
+
+	.color-overlay{
+		position: absolute;
+		background-color: rgba(0, 0, 0, 0.8);
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+
+	.st-subscribe-title h3{
+		color: #fff;
+		font-family: 'Raleway';
+		font-weight: 700;
+		font-size: 30px;
+	}
+
+	.st-subscribe-title p{
+		color: #fff;
+		margin-bottom: 30px;
+	}
+
+	.subscribe input[type=email]{
+		padding: 0 20px;
+		width: 70%;
+		border: 1px solid #fff;
+		border-radius: 3px 0 0 3px;
+		height: 60px;
+		line-height: 60px;
+		outline: none;
+	}
+
+	.subscribe input[type=submit]{
+		width: 30%;
+		float: right;
+		height: 60px;
+		line-height: 54px;
+		background-color: #68c3a3;
+		border: 1px solid #68c3a3;
+		color: #fff;
+		font-weight: 700;
+		font-family: 'Raleway';
+		border-radius: 0 3px 3px 0;
+		outline: none;
+	}
+
+	.subscribe input[type=submit]:hover{
+		background-color: #38B589;
+		border: 1px solid #38B589;
+	}
+
+	.st-subscribe-message {
+    	display: block;
+    	padding: 10px 20px;
+    	color: #fff;
+    	font-size: 14px;
+    	clear: both;
+    }
+
+    .st-subscribe-message i {
+    	margin-right: 5px;
+    }
+
+	.st-subscribe-message .fa-warning {
+    	color: #ff5c5c;
+    }
+
+    .st-subscribe-message .fa-check {
+    	color: #68c3a3;
+    }
+
+
+
+
+/* 6. CONTACT */
+
+	.contact{
+		padding-top: 120px;
+		padding-bottom: 120px;
+	}
+
+	.contact-title{
+		font-family: 'Raleway';
+		font-weight: 700;
+		font-size: 30px;
+		margin: 0 0 20px;
+	}
+	
+	.contact-info .contact-content{
+		margin-bottom: 30px;
+	}
+
+	.contact-info p{
+		margin-bottom: 20px;
+	}
+
+	.contact-info p i{
+		color: #68c3a3;
+		font-size: 18px;
+		text-align: center;
+		width: 20px;
+		margin-right: 10px;
+	}
+
+	.contact-form input[type=text]{
+		display: block;
+		width: 100%;
+		height: 48px;
+		padding-left: 15px;
+		border: 1px solid #E8E8E8;
+		border-radius: 3px;
+		margin-bottom: 20px;
+		outline: none;
+	}
+
+	.contact-form input[type=email]{
+		display: block;
+		width: 100%;
+		height: 48px;
+		padding-left: 15px;
+		border: 1px solid #E8E8E8;
+		border-radius: 3px;
+		margin-bottom: 20px;
+		outline: none;
+	}
+
+	.contact-form textarea{
+		display: block;
+		width: 100%;
+		padding-left: 15px;
+		padding-top: 10px;
+		border: 1px solid #E8E8E8;
+		border-radius: 3px;
+		margin-bottom: 20px;
+		outline: none;
+	}
+
+	.contact-form input[type=submit]{
+		background-color: #68c3a3;
+		border: 1px solid #68c3a3;
+		color: #fff;
+		font-weight: 700;
+		font-family: 'Raleway';
+		border-radius: 3px;
+		padding: 15px 20px;
+		outline: none;
+	}
+
+	.contact-form input[type=submit]:hover{
+		background-color: #38B589;
+		border: 1px solid #38B589;
+	}
+
+	.st-contact-message {
+		font-size: 14px;
+		margin-bottom: 20px;
+		margin-left: 15px;
+		color: #000;
+	}
+
+	.st-contact-message i {
+		margin-right: 5px;
+	}
+
+	.st-contact-message .fa-warning {
+    	color: #ff5c5c;
+    }
+
+    .st-contact-message .fa-check {
+    	color: #68c3a3;
+    } 
+
+
+/* 7. FOOTER */
+
+	.footer{
+		background-color: #262626;
+		padding-top: 40px;
+		padding-bottom: 40px;
+		color: rgba(255, 255, 255, 0.4);
+	}
+
+	.footer a{
+		color: rgba(255, 255, 255, 0.4);
+	}
+
+	.footer a:hover{
+		color: #fff;
+	}
+
+	.copyright{
+		padding-left: 20px;
+	}
+
+	.copyright p{
+		margin: 0;
+	}
+
+	.social-icons{
+		padding-right: 20px;
+		text-align: right;
+	}
+
+	.social-icons a{
+		width: 28px;
+		display: inline-block;
+		height: 28px;
+		text-align: center;
+		line-height: 26px;
+		border-radius: 3px;
+		margin-left: 10px;
+	}
+
+
+/* 8. RESPONSIVE */
+
+	@media (max-width: 767px) {
+
+		.st-header{
+			height: auto !important;
+		}
+		
+		.service-icons{
+			padding-top: 100px;
+			padding-bottom: 50px;
+		}
+
+		.st-service-box{
+			text-align: center;
+			margin-bottom: 50px;
+		}
+
+		.st-service-box p{
+			padding: 0 20%;
+		}
+		
+		.subscribe{
+			padding-top: 80px;
+			padding-bottom: 100px;
+		}
+
+		.subscribe-form{
+			padding: 0 10%;
+		}
+
+		.contact-title{
+			text-align: center;
+		}
+
+		.contact-info{
+			margin-bottom: 50px;
+		}
+
+		.contact{
+			padding-top: 100px;
+			padding-bottom: 100px;
+		}
+
+		.social-icons{
+			text-align: center;
+			margin-bottom: 40px;
+		}
+
+		.copyright{
+			text-align: center;
+		}
+
+	}
+
+
+	@media (max-width: 479px) {
+		
+		.st-service-box p {
+			padding: 0 10%;
+		}
+
+		.subscribe input[type=email]{
+			width: 100%;
+			border-radius: 3px 3px 0 0;
+		}
+
+		.subscribe input[type=submit]{
+			width: 100%;
+			border-radius: 0 0 3px 3px;
+		}
+
+		.contact-form input[type=submit]{
+			width: 100%;
+		}
+
+	}
+
+
+
+
+
+

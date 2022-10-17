@@ -1,0 +1,363 @@
+# Soft Skills
+
+fonte: [www.gallup.com/cliftonstrengths](https://www.gallup.com/cliftonstrengths/pt/253724/34-temas-cliftonstrengths.aspx)
+
+Nesta versão da API as Equipes podem escolher 5 dentre as 34 Soft Skills a seguir:
+
+* PENSAMENTO ESTRATÉGICO
+  * Analítico
+  * Contexto
+  * Futurista
+  * Ideativo
+  * Input
+  * Intelecção
+  * Estudioso
+  * Estratégico
+
+* CONSTRUÇÃO DE RELACIONAMENTO
+
+  * Adaptabilidade
+  * Conexão
+  * Desenvolvimento
+  * Empatia
+  * Harmonia
+  * Inclusão
+  * Individualização
+  * Positivo
+  * Relacionamento
+
+* INFLUÊNCIA
+
+  * Ativação
+  * Comando
+  * Comunicação
+  * Competição
+  * Excelência
+  * Autoafirmação
+  * Significância
+  * Carisma
+
+* EXECUÇÃO
+
+  * Realização
+  * Organização
+  * Crença
+  * Imparcialidade
+  * Prudência
+  * Disciplina
+  * Foco
+  * Responsabilidade
+  * Restauração
+
+## PENSAMENTO ESTRATÉGICO
+
+### Analítico
+
+> Pessoas excepcionalmente talentosas no tema Analítico procuram por motivos e causas. Elas têm a capacidade de analisar todos os fatores que podem afetar uma situação.
+
+Pessoas com fortes talentos analíticos desafiam os outros no provador. Eles adotam uma abordagem crítica ao que os outros podem aceitar como verdade. Elas procuram por motivos pelos quais as situações são como são. Elas querem entender como certos padrões afetam uns aos outros. Como eles combinam? Qual é o resultado final? Este resultado está de acordo com a teoria proposta ou a situação em estudo? Esses são seus questionamentos.
+
+Algumas pessoas o veem como lógico e rigoroso. Alguns talvez acreditam que eles sejam negativos ou desnecessariamente críticos, quando estão apenas tentando compreender algo. Eles trazem um objetivo e análise imparcial que permite localizar a causa raiz e os efeitos, e, em seguida, desenvolvem pensamentos claros com base em fatos.
+
+
+### Contexto
+
+> Pessoas excepcionalmente talentosas no tema Contexto gostam de pensar no passado. Elas entendem o presente estudando sua história.
+
+
+Perspectiva e histórico são importante para as pessoas com fortes talentos de Contexto. Elas valorizam o ponto de vista retrospectivo, porque acreditam que é o lugar onde as respostas estão. Eles olham para traz para entender o presente. Do passado, elas podem discernir modelos para o direcionamento. E, ao contrário do esperado, eles se tornam mais sábios e confiantes com relação ao futuro porque veem que suas sementes são plantadas no passado.
+
+Pessoas com forte Contexto podem se sentirem desorientadas quando elas não conseguem visualizar os padrões decorrentes de eventos anteriores. Os outros podem tornar-se impacientes com elas ao se esforçarem para entender a história de uma determinada situação. Mas, no final, esse contexto histórico as proporciona confiança em suas decisões.
+
+
+### Futurista
+
+> As pessoas excepcionalmente talentosas no tema Futurista são inspiradas pelo futuro e pelo que pode acontecer. Elas energizam outras pessoas com suas visões do futuro.
+
+Pessoas com fortes talentos do tema de talento Futurista adoram olhar além do horizonte. Elas são fascinadas pelo futuro. Elas antecipam e imaginam, em detalhes, como será ou poderá ser o amanhã. Normalmente, elas veem o futuro de modo positivo.
+
+Embora os detalhes da situação dependam de seus outros pontos fortes e interesses - um produto, uma equipe, uma vida ou um mundo melhor - tudo será sempre inspirador. Essa visão é capaz de animar a si mesmo e aos demais. Elas podem traçar uma imagem do futuro que levante os olhares e os ânimos dos outros.
+
+
+
+### Ideativo
+
+> Pessoas excepcionalmente talentosas no tema Ideativo são fascinadas por ideias. Elas conseguem descobrir conexões entre fenômenos aparentemente não relacionados.
+
+Pessoas com fortes talentos no tema de talento Ideativo são criativas e gostam de originalidade. Elas desfrutam de experiências de pensamento livre, como grupos de brainstorming e de discussão. Elas têm uma capacidade natural para considerar os assuntos de várias perspectivas. Elas gostam de virar o mundo que todos nós conhecemos de cabeça para baixo para que possamos vê-lo sob um novo ângulo estranhamente explicado.
+
+Elas pensam de maneira diferente. Elas são fascinadas por novas ideias e novos conceitos, que surgem facilmente. Elas adoram ideias, pois podem ser significativas, inovadoras, esclarecedoras, contrárias e até mesmo estranhas. Por todas essas razões, essas pessoas sentem uma corrente de energia toda vez que uma nova ideia surge.
+
+
+### Input
+
+> Pessoas excepcionalmente talentosas no quesito Input têm uma necessidade de coletar e arquivar. Elas podem acumular informações, idéias, artefatos ou até mesmo relacionamentos.
+
+Pessoas com fortes talentos no tema de talento Input são curiosas. Elas sempre querem saber mais. Elas são ávidas por informações. Elas gostam de colecionar algumas coisas, como ideias, livros, recordações, citações ou fatos. Não importa o que elas colecionem; elas fazem isso porque têm interesse. Elas descobrem muitas coisas interessantes e têm uma curiosidade natural.
+
+O mundo é excitante precisamente por causa da variedade e complexidade infinitas que possui. Alguns minutos de navegação na Internet poderão virar horas assim que sua curiosidade despertar. Elas constantemente adquirem, compilam e arquivam as coisas. Sua busca mantém sua mente saudável. Essas pessoas sabem que, um dia, algumas das informações ou outras coisas que adquiriram mostrarão ter valor.
+
+
+### Intelecção
+
+> As pessoas excepcionalmente talentosas no tema Intelecção caracterizam-se por sua atividade intelectual. Elas são pessoas introspectivas e que apreciam discussões intelectuais.
+
+Pessoas com fortes talentos no tema de talento Intelecção gostam de pensar. Elas gostam de atividades mentais. Elas gostam de exercitar o cérebro. Essa necessidade de atividade mental pode ser concentrada; por exemplo, essas pessoas podem tentar resolver um problema, desenvolver uma ideia ou entender os sentimentos de outra pessoa. O foco exato dependerá de seus outros pontos fortes.
+
+O tema de talento Intelecção não determina o que essas pessoas pensam; ele simplesmente significa que elas gostam de pensar. Elas desejam permitir que seus pensamentos fluam em muitas direções. Pessoas com fortes talentos no tema de talento Intelecção são introspectivas. Essa introspecção fornece a elas o tempo necessário para refletir e ponderar. Independentemente para onde ele levar, o sussurro mental é um elemento constante na vida dessas pessoas.
+
+### Estudioso
+
+> As pessoas excepcionalmente talentosas no tema Estudioso têm um grande desejo de aprender e desejam aprimorar-se continuamente. Elas são motivadas muito mais pelo processo de aprendizagem do que pelos resultados.
+
+
+Pessoas com fortes talentos no tema de talento Estudioso esforçam-se constantemente para aprender e melhorar. O processo de aprendizado é tão importante para elas quanto o conhecimento obtido. A segura e deliberada jornada da ignorância até a competência é o que dá energia aos estudiosos. Elas são motivadas pela emoção de aprender novos fatos, começar um novo assunto e dominar uma habilidade importante. O aprendizado cria sua confiança.
+
+Ter como tema de talento dominante Estudioso não necessariamente motiva alguém a se tornar especialista em determinado assunto ou a se esforçar para obter o respeito que acompanha a conquista de uma credencial profissional ou acadêmica. O resultado da aprendizagem é menos importante do que o "caminho para chegar lá".
+
+### Estratégico
+
+> As pessoas excepcionalmente talentosas no tema Estratégico criam formas alternativas para prosseguir. Diante de qualquer cenário que se apresente, elas sabem rapidamente detectar os padrões e as questões importantes.
+
+Pessoas com forte talento Estratégico são capazes de se orientar em meio à confusão e achar a melhor saída. Essa não é uma habilidade que se aprende. É uma maneira distinta de pensar, uma perspectiva especial do mundo em geral. Essa perspectiva permite que elas vejam padrões onde outros simplesmente veem a complexidade.
+
+Atentas a esses padrões, elas são capazes de visualizar cenários alternativos, sempre se perguntando "E se isso acontecesse?" Essa pergunta recorrente lhes ajuda a ver, planejar e se preparar para situações futuras. Elas verão uma forma quando os outros assumirem que não há nenhuma forma. E, munidas dessa estratégia, elas dão um ataque certeiro.
+
+
+
+## CONSTRUÇÃO DE RELACIONAMENTO
+
+### Adaptabilidade
+
+> As pessoas excepcionalmente talentosas no tema Adaptabilidade preferem "aceitar as coisas conforme acontecem". Elas tendem a serem pessoas centradas no "agora", que aceitam as coisas como as recebem e descobrem o futuro um dia de cada vez.
+
+As pessoas com fortes talentos de Adaptabilidade vivem o momento. Elas não veem o futuro como um destino fixo. Em vez disso, é algo que elas podem criar a partir das alternativas feitas no presente.
+
+Descobriu seu futuro, um dia de cada vez. Isso não significa que elas não tenham planos. Mas seus talentos de Adaptabilidade permitem que elas respondam positivamente às exigências do momento, até mesmo quando as circunstâncias as afastam de seus planos. Elas não se importam com solicitações de última hora ou desvios imprevistos. Elas esperam por isso. Na verdade, de alguma maneira, elas até gostam. No fundo, elas são pessoas bastante flexíveis que podem se manter produtivas mesmo quando as circunstâncias as levam em diversas direções ao mesmo tempo.
+
+
+### Conexão
+
+> As pessoas excepcionalmente talentosas no tema Conexão acreditam nas ligações entre todas as coisas. Elas acreditam que há poucas coincidências e que quase todo evento tem significado.
+
+As coisas acontecem por uma razão. Aqueles com fortes talentos de Conexão têm certeza disso. Eles têm uma poderosa convicção de que todos estão conectados. Enquanto cada pessoa é responsável por suas próprias decisões e ações, aqueles com forte Conexão acreditam que todo mundo é parte de algo maior. Essa crença implica em determinadas responsabilidades.
+
+Sua consciência dessas responsabilidades cria seus sistemas de valores. Eles são solícitos, cuidadosos e, ao mesmo tempo, acolhedores. Certos da unidade da humanidade, eles constroem pontes para pessoas de diferentes culturas. Eles proporcionam um conforto aos outros de que há um propósito além da existência cotidiana. São fortes em sua fé. Isso sustenta o funcionário e seus amigos mais próximos diante dos mistérios da vida.
+
+### Desenvolvimento
+
+> As pessoas excepcionalmente talentosas no tema Desenvolvimento reconhecem e cultivam o potencial em outros. Elas identificam os sinais de cada pequena melhoria e obtém satisfação a partir da evidência do progresso.
+
+Os Desenvolvedores veem o potencial dos outros. Elas, naturalmente, veem a capacidade dos outros de mudar, crescer e desenvolver para o melhor. E eles se sentem atraídos por essas pessoas por isso. Fazer parte do desenvolvimento de outra pessoa é uma das melhores experiências do mundo para elas.
+
+Eles procuram maneiras de desafiar as pessoas. Eles aconselham experiências interessantes que podem ampliar as pessoas, ajudá-las a crescer e a vivenciarem o sucesso. O tempo todo, eles buscam sinais de crescimento, um novo comportamento aprendido ou modificado, uma pequena melhora de habilidade, um pouco de excelência ou de "fluxo", em que, anteriormente, havia apenas passos hesitantes. Sinais de crescimento em outras pessoas são seu combustível, trazendo-os motivação e satisfação.
+
+### Empatia
+
+> As pessoas excepcionalmente talentosas no tema Empatia conseguem sentir as emoções de outras pessoas se colocando na "pele" e na situação delas.
+
+Pessoas com fortes talentos no tema de talento Empatia conseguem perceber as emoções dos que estão a seu redor. Elas conseguem sentir o que os outros estão sentindo como se esses sentimentos fossem seus. Elas intuitivamente veem o mundo através dos olhos dos outros e compartilham suas perspectivas. Elas percebem o sofrimento ou a alegria das pessoas - muitas vezes, antes mesmo de esses sentimentos serem demonstrados. Sua habilidade instintiva de entender é poderosa. Elas conseguem ouvir questões não expressas e antecipar as necessidades.
+
+Enquanto os outros lutam em busca de palavras, elas parecem encontrar as palavras certas e o tom certo. Como resultado, ajudam as pessoas a exprimir seus sentimentos - para si mesmos e para os outros. Elas ajudam as pessoas a darem voz a sua vida emocional.
+
+### Harmonia
+
+> As pessoas excepcionalmente talentosas no tema Harmonia buscam o consenso. Elas não gostam de conflitos; em vez disso, procuram pontos de concordância.
+
+Pessoas com fortes talentos no tema de talento Harmonia querem a paz e tentam unir os outros. Do ponto de vista desses membros da equipe, o conflito e a discussão trazem poucos ganhos, então, eles procuram reduzi-los ao mínimo.
+
+Os membros da equipe com fortes talentos de Harmonia veem o que as pessoas têm em comum, mesmo durante conflitos. Eles tentam desviar os outros do confronto rumo à reconciliação. De fato, a harmonia é um de seus valores básicos. Eles desejam ajudar os indivíduos, as famílias e as organizações a trabalharem em conjunto. Quando os outros discutem, eles evitam o debate, preferindo falar sobre questões práticas, realistas, com as quais todos possam concordar.
+
+### Inclusão
+
+> Pessoas excepcionalmente talentosas no tema Inclusão aceitam os outros. Elas se importam com as pessoas que se sentem excluídas e se esforçam para incluí-las.
+
+"Aumente o tamanho do círculo." Essa é a filosofia em que pessoas com fortes talentos de Inclusão centralizam suas vidas. Elas desejam incluir as pessoas e fazem com que elas se sintam parte do grupo. Elas notam as pessoas que se sentem intrusas ou negligenciadas, tentam se aproximar delas e trazê-las para o grupo. Elas aceitam os outros instintivamente.
+
+Independentemente de raça, sexo, nacionalidade, personalidade ou fé, as pessoas com o talento Inclusão fazem poucos julgamentos. Sua natureza receptiva não se baseia necessariamente na crença de que cada um de nós é diferente e que devemos respeitar essas diferenças. Ao contrário, ela se baseia na convicção de que, fundamentalmente, somos todos iguais. Somos todos igualmente especiais e importantes. Portanto, ninguém deveria ser ignorado. Cada um de nós deveria ser incluído.
+
+### Individualização
+
+> Pessoas excepcionalmente talentosas no tema Individualização ficam intrigadas com as qualidades únicas de cada pessoa. Elas têm o dom de descobrir como diferentes pessoas podem trabalhar juntas de forma produtiva.
+
+Pessoas com fortes talentos no tema de talento Individualização são fascinadas pelas qualidades exclusivas de cada um e compreendem essas qualidades. Impacientes com generalizações, o foco delas está nas diferenças entre os indivíduos. Elas instintivamente observam o estilo, a motivação e o modo de pensar de cada pessoa e como ela cria seus relacionamentos. Elas observam detalhadamente os pontos fortes das outras pessoas e extraem o melhor de cada uma delas.
+
+Seus talentos de Individualização ajudam-nas a formar equipes produtivas. Enquanto outros buscam a "estrutura" ou o "processo" de equipe perfeitos, essas pessoas sabem instintivamente que o segredo para uma excelente equipe é ter cada um dos integrantes dedicados àquilo que fazem melhor.
+
+### Positivo
+
+> Pessoas excepcionalmente talentosas no tema Positivo têm um entusiasmo contagiante. São pessoas alegres e que estimulam os outros com seus planos.
+
+Pessoas com fortes talentos no tema de talento Positivo são generosas nos elogios, de sorriso fácil e sempre procuram o lado divertido da situação. Elas provocam entusiasmo nas pessoas, nos grupos e nas organizações. Elas podem incentivar os outros a serem mais produtivos e confiantes.
+
+Elas sempre parecem encontrar uma forma de amenizar os ânimos dos que estão a seu redor. São pessoas otimistas, confiantes e divertidas. Elas celebram cada conquista. Encontram centenas de maneiras de fazer tudo mais excitante e vívido.
+
+### Relacionamento
+
+> Pessoas excepcionalmente talentosas no tema Relacionamento preferem relacionamentos muito próximos com os outros. Elas sentem enorme satisfação em ajudar seus amigos a conquistar um objetivo.
+
+O tema de talento Relacionamento descreve a atitude de uma pessoa quanto a seus relacionamentos. Em termos simples, as pessoas com fortes talentos no tema de talento Relacionamento são atraídos para outras pessoas que já conhecem. Elas não evitam, necessariamente, conhecer pessoas novas, de fato, talvez elas possuam outros temas de talento que contribuam para gostar da emoção de transformar desconhecidos em amigos, porém sentem um imenso prazer em estar rodeadas de seus amigos.
+
+Em resumo, uma pessoa com fortes talentos no tema de talento Relacionamento forma relacionamentos muito próximos com as pessoas. Talvez elas conheçam muitas pessoas e podem relacionar-se com todos os tipos de pessoas. No entanto, elas também têm um grupo muito seleto de amigos com quem têm relacionamentos incrivelmente intensos.
+
+## INFLUÊNCIA
+
+### Ativação
+
+> Pessoas com forte tema de talento Ativação podem fazer com que as coisas aconteçam, tornando pensamentos em ação. Elas querem fazer as coisas agora em vez de simplesmente falar sobre elas.
+
+"Quando podemos começar?" Esta é uma pergunta recorrente para Ativação. Pessoas com o tema de talentos Ativação são impacientes por ação. Elas podem concordar que as análises têm o seu uso, ou que o debate e a discussão ocasionalmente rendem algumas valorosas descobertas, mas, no fundo, sabem que apenas a ação é real.
+
+Assim que a decisão é tomada, elas precisam agir. Outras pessoas podem preocupar-se, dizendo: "Ainda existem algumas coisas que não sabemos", mas este não é o argumento que vai deter os que têm o tema de talento Ativação. Elas tomam uma decisão, entram em ação, avaliam os resultados e aprendem.
+
+A linha inferior é esta: Pessoas com o tema Ativação sabem que serão julgadas não por aquilo que dizem ou pensam, mas por aquilo que concluírem. Isso não os assusta. Isso os energiza.
+
+### Comando
+
+> Pessoas excepcionalmente talentosas no tema Comando têm presença. Elas podem assumir o controle de uma situação e tomar decisões.
+
+As pessoas com fortes talentos de Comando, naturalmente, assumem o controle. Elas veem o que precisa ser feito, e estão dispostas a falar. Eles não temem o confronto, em vez disso, entendem que o confronto é o primeiro passo em direção à resolução. Eles têm a necessidade de que as coisas sejam claras entre as pessoas e as desafiarão a serem diretas e honestas. Seu talento impulsiona-os a assumir riscos.
+
+Às vezes, as pessoas com fortes talentos de Comando podem intimidar outras pessoas. E enquanto algumas pessoas possam censurar esse talento, outras, muitas vezes voluntariamente, entregam-lhes as rédeas. As pessoas se sentem atraídas por aqueles que adotam uma postura firme e que estão dispostas a liderar.
+
+### Comunicação
+
+> As pessoas excepcionalmente talentosas no tema Comunicação geralmente têm facilidade de traduzir seus pensamentos em palavras. Elas têm boas conversas e são boas apresentadoras.
+
+Pessoas com fortes talentos de Comunicação gostam de explicar, descrever, apresentar e escrever. Seus talentos naturais lhes permitem trazer ideias e eventos à vida. Elas transformam pensamentos e ações em histórias, imagens, exemplos e metáforas.
+
+Elas querem que suas informações - se for uma ideia, um evento, uma descoberta ou uma lição - cativem o público. Isso os leva a buscar a frase perfeita, com palavras dramáticas e declarações poderosas. No final das contas, é por isso, que as pessoas gostam de ouvi-las. Suas palavras provocam interesse e clareza, e nos inspiram a agir.
+
+### Competição
+
+> As pessoas excepcionalmente talentosas no tema Competição medem seu progresso em relação ao desempenho dos outros. Elas se esforçam para conquistar sempre o primeiro lugar e adoram participar de competições.
+
+A essência da competição está na comparação. Para as pessoas com fortes talentos de Competição, o desempenho é a sua suprema medida. Quando eles olham o mundo, instintivamente prestam atenção no desempenho das pessoas. Elas têm uma profunda aspiração de serem as melhores e trabalharão duro para se destacarem - especialmente em comparação aos outros. Não é sobre o esforço; é sobre a vitória.
+
+Independentemente do esforço ou da intenção, mesmo que elas atinjam sua meta, o que conseguiu parece vazio se elas não superarem os seus colegas. Eles precisam comparar. Se eles puderem comparar, eles podem competir e se puderem competir, podem ganhar.
+
+### Excelência
+
+> Pessoas excepcionalmente talentosas no tema Excelência concentram-se nos pontos fortes como um modo de incentivar a excelência individual e do grupo. Elas procuram transformar algo muito bom em algo fantástico.
+
+As pessoas que se destacam no tema de talento Excelência percebem os talentos e os pontos fortes nos outros, normalmente antes que qualquer outra pessoa perceba. Os pontos fortes, de si próprio ou de outros, vão fasciná-los. As pessoas que se destacam no tema de talento Excelência adoram ajudar outras pessoas a se sentirem entusiasmadas quanto a seu potencial. Elas têm a capacidade de ver o que as pessoas fazem melhor e em quais funções elas poderão se destacar. Elas conseguem perceber como os talentos das pessoas associam-se às tarefas que devem ser concluídas.
+
+A excelência, não a normalidade, é o critério que norteia suas vidas. Com sua orientação de qualidade, elas conseguem concentrar-se em áreas de pontos fortes para si mesmas e para os outros, além de gerenciar questões que envolvem pontos fracos.
+
+### Autoafirmação
+
+> As pessoas excepcionalmente talentosas no tema Autoafirmação sentem-se confiantes em sua capacidade de assumir riscos e administrar suas próprias vidas. Elas têm uma bússola interna que proporciona certeza em suas decisões.
+
+A auto-afirmação é similar à autoconfiança. Pessoas com fortes talentos de Autoafirmação acreditam em seus pontos fortes e em sua capacidade. Elas sabem que são capazes de correr riscos, de enfrentar novos desafios, de reivindicar direitos e, mais importante, de cumprir tarefas. Porém, ser auto-afirmativo é mais do que ser apenas autoconfiante.
+
+Pessoas com talentos dominantes no tema de talento Autoafirmação têm confiança em sua capacidade e em seu julgamento. Elas têm um senso interior de certeza que confirma sua direção e suas decisões. Como a quilha de um navio, seus fortes talentos de auto-afirmação podem suportar diferentes pressões e as mantém no seu curso.
+
+### Significância
+
+> Pessoas excepcionalmente talentosas no quesito Significância querem exercer um grande impacto. Elas são independentes e priorizam projetos com base em quanta influência elas exercerão sobre sua organização ou as pessoas próximas.
+
+Pessoas com fortes talentos de Significância desejam que os outros vejam seu valor. Elas querem ser reconhecidas, ouvidas e valorizadas. Em particular, elas querem ser consideradas apreciadas pelos talentos únicos que oferecem. Elas tentar ter um impacto nas pessoas, nos grupos e na sociedade em geral. Elas querem que suas contribuições sejam vistas como substanciais, significativas e eficientes.
+
+Elas são motivadas por seu forte desejo de serem reconhecidas e, como resultado, elas continuam alcançando. O tema de talento Significância dessas pessoas dá incentivo a elas, distanciando-as do que é medíocre e impulsionando-as para o que é excepcional.
+
+### Carisma
+
+> As pessoas excepcionalmente talentosas no tema Carisma adoram o desafio de conhecer novas pessoas e conquistá-las. Elas sentem satisfação em quebrar o gelo e estabelecer contato com alguém.
+
+Carisma tem a ver com afeto. Pessoas com fortes talentos no tema de talento Carisma gostam do desafio de conhecer novas pessoas e ganhar seu respeito. Elas se sentem atraídas a conhecer novas pessoas. Eles querem saber os nomes das outras pessoas, fazem perguntas a elas e encontram interesses em comum sobre os quais é possível criar afinidade.
+
+Pessoas com Carisma sendo seu principal tema de talento conseguem entrar no meio de uma multidão e saber facilmente o que fazer e dizer. Algumas pessoas evitam iniciar uma conversa, pois se preocupam com a falta de assunto. As pessoas com fortes talentos de Carisma não evitam. Elas não veem estranhos, apenas amigos que ainda não conheceram.
+
+
+## EXECUÇÃO
+
+### Realização
+
+> Pessoas excepcionalmente talentosas no tema Realização trabalham duro e apresentam muita perseverança. Elas têm grande satisfação em estarem ocupadas e serem produtivas.
+
+E apresentam necessidades constantes de realização. Eles têm uma sede de realização enorme dentro deles. Essa sede de realização os empurra a fazer mais, a realizar mais.
+
+Pessoas com forte tema de talento Realização sentem-se como se todos os dias começassem do zero. Ao fim do dia, elas devem ter cumprido algo significativo para se sentirem bem consigo. E, ""todos os dias"" significa cada dia - dias úteis, finais de semana, feriados e, até mesmo, período de férias. Se o dia passar sem alguma forma de realização, não importa a proporção, as pessoas com tema de talento Realização se sentem insatisfeitas.
+
+Ao concluir um projeto desafiador, elas raramente procuram ser premiadas com uma atribuição fácil ou descanso. Embora elas apreciem o reconhecimento das realizações do passado, sua motivação é lutar pela próxima meta.
+
+### Organização
+
+> Pessoas excepcionalmente talentosas no tema Organização são capazes de organizar, mas também têm uma flexibilidade que complementa essa capacidade. Elas gostam de determinar a maneira como todos os recursos e partes podem ser organizadas para uma máxima produtividade.
+
+Pessoas com o tema Organização são condutoras. Frente a uma situação complexa, que envolve muitos fatores, as pessoas com fortes talentos de Organização gostam de gerenciar todas essas variáveis, alinhando e realinhando-as, até que estejam certos de que organizaram da maneira mais produtiva possível. Elas são exemplos brilhantes de flexibilidade efetiva, seja alternando seus planos de viagem no último minuto em favor de uma conexão melhor ou uma tarifa mais baixa, ou refletindo sobre a melhor combinação de pessoas e recursos para realizar um novo projeto.
+
+Do rotineiro ao complexo, eles estão sempre procurando a configuração perfeita. Elas são ainda melhores em situações dinâmicas. Ao serem confrontadas com o inesperado, elas entram na confusão, criando novas opções, procurando novos caminhos, descobrindo novas parcerias - porque, afinal, talvez exista um caminho melhor.
+
+
+### Crença
+
+> As pessoas excepcionalmente talentosas no tema Crença têm determinados valores essenciais que são imutáveis. Desses valores, emerge um propósito definido para suas vidas.
+
+As pessoas com fortes talentos de Crença têm princípios estáveis pelos quais elas vivem. Estes valores variam de uma pessoa para outra, mas aqueles com fortes talentos de Crença têm ideais profundos e um forte sentido de objetividade em suas vidas. Esses valores fundamentais afetam seu comportamento de diversas maneiras.
+
+Seu senso de missão lhes proporciona sentido e direção às suas vidas; em sua opinião, o sucesso é mais do que dinheiro e prestígio. Seus talentos de Crença lhes proporcionam direção, orientando-os durante as tentações e distrações em direção a um conjunto consistente de prioridades. Esta imparcialidade é a base para todos os seus relacionamentos. Eles são vistos por outros como pessoas confiáveis. Sua motivação, vontade e determinação são provenientes de sua vivência em função dos seus valores e crenças.
+
+
+### Imparcialidade
+
+> Pessoas excepcionalmente talentosas no tema Imparcialidade são conscientes da necessidade de tratar as pessoas com igualdade. Elas desejam rotinas estáveis e regras e procedimentos claros que todos possam seguir.
+
+Equilíbrio é importante para aqueles com fortes talentos de Imparcialidade. Eles têm uma consciência aguçada da necessidade de tratar as pessoas da mesma maneira, não importa sua posição na vida, para que a balança não pese muito a favor de qualquer pessoa. A seu ver, isso leva ao egoísmo e ao individualismo.
+
+Pessoas com talentos especialmente fortes de Imparcialidade se veem como guardiões do que é certo e justo. Contrapondo-se a favores especiais, elas acreditam que as pessoas funcionam melhor em um ambiente consistente com regras claras que se aplicam igualmente a todos. Este é um ambiente em que as pessoas sabem o que se espera. É previsível e igualitário. Aqui, todas as pessoas têm a mesma chance de mostrar seu valor.
+
+
+### Prudência
+
+> As pessoas excepcionalmente talentosas no tema Prudência são melhores descritas pelo grande cuidado ao tomarem decisões ou fazerem escolhas. Elas antecipam os obstáculos.
+
+Pessoas com talento Prudência forte são cuidadosos e vigilantes. Tudo pode parecer em ordem, mas, sob a superfície, eles pressentem diversos riscos. Em vez de negar esses perigos, eles os traz à tona. Então, cada risco pode ser identificado, avaliado e finalmente reduzido. Assim, aqueles com talento Prudência forte trazem uma abordagem completa e consciente para a tomada de decisões.
+
+Eles se preocupam em considerar as opções, pensando nos prós e contras de cada alternativa. Para eles, fazer a escolha correta é mais importante do que o tempo que leva para fazê-la. Eles veem a vida como um terreno minado. Os outros podem andar sobre ele imprudentemente, se assim escolherem, mas eles têm uma abordagem diferente. Eles identificam os perigos, pesam seu relativo impacto e, então, colocam seus pés deliberadamente. Eles caminham com cuidado.
+
+
+### Disciplina
+
+> Pessoas excepcionalmente talentosas no tema Disciplina gostam de rotina e estrutura. Seu mundo é mais bem descrito em termos da ordem que elas criam.
+
+Pessoas com fortes talentos no tema de talento Disciplina prosperam em um ambiente organizado e ordenado. Elas gostam que seus dias sejam previsíveis e planejados, de modo que encontrem instintivamente maneiras para organizar suas vidas. Elas estabelecem rotinas. Elas se concentram em cronogramas e prazos para a conclusão de tarefas.
+
+Elas dividem projetos em longo prazo em uma série de etapas específicas em curto prazo e seguem seus planos diligentemente. Elas não são necessariamente muito organizadas, mas a precisão é fundamental. Elas são capazes de criar ordem e estrutura onde for necessário. Algumas pessoas podem rotular aqueles que são muito disciplinados como compulsivos, meticulosos ou ávidos por controle, mas esses atributos fazem com que eles sejam produtivos, muitas vezes mais que suas críticas.
+
+### Foco
+
+> Pessoas excepcionalmente talentosas no tema Foco escolhem uma direção e a seguem, fazendo as correções necessárias para manter o curso escolhido. Elas definem prioridades, e então agem.
+
+Pessoas com fortes talentos no tema de talento Foco definem prioridades e depois agem. Elas estabelecem metas. Essas metas servem como uma bússola, ajudando-as a determinar as prioridades e a fazer as alterações necessárias para voltar ao curso escolhido.
+
+O foco delas é vigoroso, pois faz com que elas filtrem; elas instintivamente avaliarão cada ação antes de executá-la a fim de determinar se essa ação irá ajudá-las a alcançar sua meta. No final, os fortes talentos de Foco fazem com que elas sejam eficientes. Essas pessoas são membros da equipe extremamente valiosos, pois sua determinação aumenta a agilidade e a qualidade de seu desempenho, além de manter a equipe no caminho certo.
+
+
+### Responsabilidade
+
+> Pessoas excepcionalmente talentosas no quesito Responsabilidade assumem um compromisso psicológico de cumprir o que prometem. Elas são comprometidas com valores estáveis, tais como a honestidade e a lealdade.
+
+
+Pessoas com fortes talentos de Responsabilidade se apropriam psicologicamente de tudo aquilo que se comprometem a fazer e, uma vez assumido o compromisso, seja ele grande ou pequeno, elas se sentem emocionalmente obrigadas a cumpri-lo. Elas mantêm suas promessas e honram seus compromissos.
+
+Elas não decepcionam as pessoas e trabalham muito para cumprir todas as suas responsabilidades e manter sua palavra. Essa consciência, sua atitude obsessiva por fazer tudo certo e sua ética impecável combinam-se para criar a reputação de alguém absolutamente confiável.
+
+
+### Restauração
+
+> As pessoas excepcionalmente talentosas no tema Restauração são especialistas em lidar com problemas. Elas são boas em descobrir o que está errado e resolver o problema.
+
+
+Pessoas com fortes talentos no tema de talento Restauração adoram solucionar problemas. Enquanto alguns desanimam diante de problemas, pessoas com fortes talentos de Restauração são energizadas por eles. Elas vibram com o desafio de analisar os sintomas, identificar o que está errado e encontrar uma solução. Elas gostam de trazer as coisas de volta à vida, consertando-as ou renovando sua vitalidade. Em resumo, elas trazem coragem e criatividade para situações problemáticas.
+
+
+
+
+
+
+
+
+
+
+

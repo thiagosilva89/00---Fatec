@@ -1,0 +1,236 @@
+
+a {
+	color: #7cbb00;
+}
+
+a:hover {
+	color:#77b201;
+}
+
+.btn-link:hover {
+  color: #77b201;
+}
+
+.color {
+	background: #7cbb00;
+	color:#fff;
+}
+
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+  border-color: #7cbb00;
+  outline: 0;
+  outline: thin dotted \9;
+  /* IE6-9 */
+
+}
+
+/* header */
+
+
+header .navbar .navbar-inner li.active {
+	border-top: 5px solid #fff;
+	background: #7cbb00;
+	margin-top:-5px;
+}
+
+header .navbar .navbar-inner nav li.blob  {
+	border-top: 5px solid #7cbb00;
+	margin-top:-5px;
+}
+
+.dropdown-menu li > a:hover,
+.dropdown-menu li > a:focus,
+.dropdown-submenu:hover > a {
+  background: #7cbb00;
+}
+
+.dropdown-menu li > a:hover,
+.dropdown-menu li > a:focus,
+.dropdown-submenu:hover > a {
+  background-color: #7cbb00;
+}
+
+.dropdown-menu .active > a,
+.dropdown-menu .active > a:hover {
+  background-color: #7cbb00;
+}
+
+/* breadcrumb */
+.breadcrumb {
+	border-left:5px solid #7cbb00;
+}
+
+
+/* accordion */
+.accordion-group {
+  border: 1px solid #7cbb00;
+}
+.accordion-inner {
+  border-top: 1px solid #7cbb00;
+}
+.accordion-heading {
+  background-color: #7cbb00;
+}
+
+/* flexslider */
+.flex-direction-nav li a:hover {
+	background:#7cbb00;
+	
+}
+
+/* carousel */
+.carousel-control {
+  background: #7cbb00;
+}
+
+
+/* eislide */
+.es-nav .es-nav-prev{
+    right: 17px;
+    background:#7cbb00 url(../img/icons/arrow-left.png) no-repeat right top;
+}
+.es-nav .es-nav-next{background: #7cbb00 url(../img/icons/arrow-right.png) no-repeat left top;}
+
+/* button */
+.btn-link {
+	color: #7cbb00;
+}
+
+.nav .dropdown-toggle .caret {
+  margin-top: 6px;
+  border-top-color: #7cbb00;
+  border-bottom-color: #7cbb00;
+}
+
+/* pagination */
+.pagination ul > li > a,
+.pagination ul > li > span {
+  background-color: #7cbb00;
+  border: 1px solid #7cbb00;
+  color:#fff;
+  border-left-width: 0;
+}
+
+
+/* tabs */
+.nav-pills > .active > a,
+.nav-pills > .active > a:hover {
+  color: #ffffff;
+  background-color: #7cbb00;
+}
+
+
+.nav-tabs > .active > a,
+.nav-tabs > .active > a:hover {
+  background-color: #7cbb00;
+  color:#fff;
+  border: none;
+  border-bottom-color: transparent;
+  cursor: default;
+}
+
+/* label */
+.label-orange,
+.badge-orange {
+  background-color: #7cbb00;
+}
+
+
+/* nav */
+.nav-list > .active > a,
+.nav-list > .active > a:hover {
+  background: #7cbb00;
+}
+
+
+.nav-pills > .active > a,
+.nav-pills > .active > a:hover {
+  background: #7cbb00;
+}
+
+.nav .dropdown-toggle .caret {
+  border-top-color: #7cbb00;
+  border-bottom-color: #7cbb00;
+}
+
+/* custom progress bar according template skin */
+.progress-orange .bar,
+.progress .bar-orange {
+  background: #7cbb00;
+}
+
+.progress-orange.progress-striped .bar,
+.progress-striped .bar-orange {
+  background: #7cbb00;
+}
+
+/* form */
+.contact-form input:focus {
+  border-color: #7cbb00;
+}
+
+/* article */
+article .headline h4 a {
+	color:#7cbb00;
+}
+
+article.last-post {
+	background: #7cbb00;
+}
+
+ul.time-post li.year{
+	border-bottom:1px solid #7cbb00;
+}
+
+section#subintro {
+	background: #7cbb00;
+}
+
+
+footer.footer {
+	background:#7cbb00;
+}
+
+ /* 404 */
+ 
+
+.error-body{
+	background:#7cbb00;
+	padding:20px;
+	text-align:center;
+}
+
+
+/* misc */
+a.thumbnail:hover {
+  border-color: #7cbb00;
+}
+
+ul.filter li.active a:hover, a.zoom:hover, a.link_post:hover, .flex-control-nav li a:hover, .flex-control-nav li a.active{
+	background: #7cbb00;
+}
+
+.thumbnail h4 a:hover, .thumbnail .meta  span a:hover, ul.recent li h6 a:hover, ul.post-meta li a:hover, .media-body span, .media-body .media-heading a:hover, form label span, article.last-post h5 a:hover{
+	color: #7cbb00;
+	text-decoration:none;
+}
+
+/* nivo */
+.nivo-directionNav a, .nivo-controlNav a.active, .nivo-controlNav a:hover{
+	background-color:#7cbb00;
+}

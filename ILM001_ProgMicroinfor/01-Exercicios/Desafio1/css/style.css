@@ -1,0 +1,86 @@
+@charset "UTF-8";
+
+#cabecalho0{
+    height: 100px;
+    width: 15%;
+   /*  background-color: darkcyan; */
+    border: 5px;
+    float: left;
+}
+
+#cabecalho1{
+    display: flex;
+    align-items: center;
+    height: 100px;
+    width: 55%;
+   /*  background-color: orange; */
+    border: 5px;
+    float: left;
+}
+
+#cabecalho1_1{
+    display: flex;
+    align-items: center;
+    height: 100px;
+    width: 15%;
+  /*   background-color: rgb(219, 219, 228); */
+    border: 5px;
+    float: left;
+    font-size: 100%;
+    font-size: clamp(1em, 1em + 1vw, 1.1em);
+ 
+}
+
+#cabecalho2{
+    display: flex;
+    height: 100px;
+    width: 15%;
+    /* background-color: darkcyan; */
+    border: 5px;
+    float: left;
+}
+
+#menu{
+    height: 390px;
+    width: 15%;
+   /*  background-color: green; */
+    border: 5px;
+    float: left;
+}
+
+#principal{
+    height: 390px;
+    width: 70%;
+    /* background-color: rgb(255, 255, 131); */
+    border: 5px;
+    float: left;
+    
+}
+
+#lado{
+    height: 390px;
+    width: 15%;
+    /* background-color: rgb(0, 153, 255); */
+    border: 5px;
+    float: left;
+}
+#rodape{
+    height: 200px;
+    width: 70%;
+   /*  background-color:rgb(255, 169, 169); */
+    border: 5px;
+    clear: both;
+    text-align: justify;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+#direitoreservado{
+    height: 150px;
+    width: 100%;
+   /*  background-color:rgb(129, 38, 38); */
+    border: 5px;
+    clear: both;
+    text-align: center;
+}
+
+

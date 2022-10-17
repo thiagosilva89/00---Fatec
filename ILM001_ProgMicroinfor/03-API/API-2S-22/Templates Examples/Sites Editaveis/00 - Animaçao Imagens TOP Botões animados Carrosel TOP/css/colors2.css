@@ -1,0 +1,367 @@
+/*------------------------------------------------------------------
+    File Name: colors2.css
+-------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------
+    color theme
+-------------------------------------------------------------------*/
+
+.header_top,
+#navbar_menu ul ul li a:hover,
+#navbar_menu ul ul li a:focus,
+.full_slider_inner,
+.bg_load,
+.theme_color_bg,
+.price_table_active .price_head,
+a.btn.dark_gray_bt:hover,
+a.btn.dark_gray_bt:focus,
+.carousel-indicators .active,
+.social_icon_style_2 ul li a:hover,
+.social_icon_style_2 ul li a:focus,
+.progress-bar,
+.tags a:hover,
+.tags a:focus,
+.testimonial_slider .carousel-control:hover,
+.testimonial_slider .carousel-control:focus,
+.pagination>.active>a,
+.pagination>.active>a:focus,
+.pagination>.active>a:hover,
+.pagination>.active>span,
+.pagination>.active>span:focus,
+.pagination>.active>span:hover,
+.icon_feature {
+	background: #3c5c9e;
+    background-size: 100% 100%;
+    border: none;
+}
+
+.theme_bg {
+	background: #3c5c9e;
+}
+
+#navbar_menu > ul > li a.active,
+#navbar_menu > ul > li:hover > a,
+#navbar_menu > ul > li:focus > a,
+footer p a:hover,footer p a:focus,
+.footer-menu li a:hover,
+.footer-menu li a:focus,
+footer ul.social_icons li a:hover,
+footer ul.social_icons li a:focus,
+.breadcrumb li a {
+    color: #3c5c9e;
+}
+
+.btn.sqaure_bt {
+    border-radius: 0;
+    background: #3c5c9e;
+}
+
+.btn.sqaure_bt span {
+    font-size: 31px;
+    font-weight: 400;
+    position: absolute;
+    right: 16px;
+}
+
+footer h2::after,
+.footer_mail-section .field button.button_custom,
+.cprt,.contact_us_section {
+	background: #3c5c9e;
+}
+
+.tp-caption.tp-shape.tp-shapewrapper.tp-resizeme.rs-parallaxlevel-0 {
+    background: #3c5c9e !important;
+}
+
+a.btn.main_bt,
+button.btn.main_bt {
+	background: #17a5e9;
+	border: none;
+}
+
+a.btn.main_bt:hover,
+a.btn.main_bt:focus,
+button.btn.main_bt:hover,
+button.btn.main_bt:focus {
+	background: #222;
+	background-size: 100% 100%;
+	color: #fff;
+}
+
+a.btn.dark_gray_bt:hover,
+a.btn.dark_gray_bt:focus {
+	color: #fff;
+}
+
+a.btn.light_btn,
+button.btn.light_btn {
+	background: #a864a8;
+}
+
+a.btn.light_btn:hover,
+a.btn.light_btn:focus button.btn.light_btn:hover,
+a.btn.light_btn:focus {
+	background: #fff;
+	color: #632e62;
+	border-color: #fff;
+}
+
+.modal-backdrop {
+	background-color: rgba(60, 92, 158, .95);
+}
+
+#navbar_menu ul ul,
+hr.dottad_border,
+.social_icon_style_2 ul li a:hover,
+.social_icon_style_2 ul li a:focus,
+.tags a:hover,
+.tags a:focus,
+.pagination>.active>a,
+.pagination>.active>a:focus,
+.pagination>.active>a:hover,
+.pagination>.active>span,
+.pagination>.active>span:focus,
+.pagination>.active>span:hover,
+.comment_section,
+.boder_dottat_small {
+	border-color: #3c5c9e;
+}
+
+
+.price_table_active a.btn:hover,
+.price_table_active a.btn:focus {
+	background: #252525;
+	color: #fff;
+}
+
+.border_dotted_circle:hover,
+.border_dotted_circle:focus {
+	border-color: #632e62;
+}
+
+.btn.light_theme_bt:hover,
+.btn.light_theme_bt:focus {
+	background: #222;
+	color: #fff;
+	border: solid #222 1px;
+}
+
+.theme_color_bg .border_dotted_circle,
+.theme_color_bg .border_dotted_circle:hover,
+.theme_color_bg .border_dotted_circle:focus {
+	border-color: #fff;
+}
+
+button.border_btn_white_border,
+a.border_btn_white_border {
+	background: transparent;
+	border: solid #fff 1px;
+}
+
+button.border_btn_white_border:focus,
+button.border_btn_white_border:hover,
+a.border_btn_white_border:hover,
+a.border_btn_white_border:focus {
+	background: #fff;
+	border: solid #fff 1px;
+}
+
+body.light_blue button.btn.white_btn:hover,
+body.light_blue a.btn.white_btn:hover,
+body.light_blue button.btn.white_btn:focus,
+body.light_blue a.btn.white_btn:focus {
+	background: #632e62;
+	border-color: #632e62;
+	color: #fff;
+}
+
+button.btn.white_btn, a.btn.white_btn, button.btn.white_btn, a.btn.white_btn {
+	color: #111;
+	text-transform: none;
+	text-shadow: none;
+}
+
+button.btn.white_btn:hover, 
+a.btn.white_btn:hover, 
+button.btn.white_btn:hover, 
+a.btn.white_btn:hover {
+	color: #fff;
+	text-transform: none;
+	background: #111;
+}
+
+.tp-bannertimer {
+    background: #3c5c9e !important;
+}
+
+.tp-caption.tp-shape.tp-shapewrapper.rs-parallaxlevel-0 {
+	background-color: rgba(0, 0, 0, 0.4) !important;
+}
+
+/** color 2 **/
+
+#accordion .panel.panel-default:nth-child(1) .panel-heading p a {
+    background: #3c5c9e;
+    border-color: #3c5c9e;
+    color: #fff;
+}
+
+#accordion .panel.panel-default .panel-heading p a[aria-expanded="true"] {
+    background: #3c5c9e;
+    border-color: #3c5c9e;
+    color: #fff;
+}
+
+#accordion .panel.panel-default .panel-heading p a > i {
+    color: #3c5c9e;
+}
+	
+#accordion .panel.panel-default .panel-heading p a, #accordion .panel.panel-default .panel-heading p a[aria-expanded="false"] {
+    border: solid #e4e4e4 1px;
+    background: #fff;
+ }	
+	
+.main_heading::after {
+  background: #3c5c9e;
+}
+
+.theme_bg .main_heading::after {
+    background: #fff;
+}
+
+a.btn.main_bt, button.btn.main_bt {
+    background: #3c5c9e;
+    border: none;
+}
+
+.price_table_active .price_no {
+    color: #3c5c9e;
+}
+
+.team_blog_colum:hover, .team_blog_colum:focus {
+    background: #3c5c9e;
+    border-color: #3c5c9e;
+}
+
+.product_detail .tab_bar_section ul.nav.nav-tabs li a.active {
+    background: #3c5c9e;
+    color: #fff;
+}
+
+.product_meta > span a {
+	color: #3c5c9e;
+}
+
+.shopping-cart .button {
+    background: #3c5c9e;
+    color: #fff;
+}
+
+.product-table .bt_main {
+    background: #3c5c9e;
+}
+
+.tab-info.login-section p a:hover, .tab-info.coupon-section p a:hover, .tab-info.login-section p a:focus, .tab-info.coupon-section p a:focus {
+    color: #3c5c9e;
+}
+
+.bt_main {
+    background: #3c5c9e;
+}
+
+.adress_cont i {
+    color: #3c5c9e;
+}
+
+h2 {
+    font-size: 45px;
+    text-transform: none;
+}
+
+.product_list:hover, .product_list:focus {
+    border-bottom: solid #3c5c9e 5px;
+}
+
+.tp-bannertimer {
+    display: none;
+}
+
+.header_top ul li {
+    font-size: 14px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.border_dottat {
+    background: #3c5c9e;
+    padding: 45px 0;
+}
+
+.list_style_1 i {
+	color: #3c5c9e;
+}
+
+.list_style_1 li {
+    margin: 7px 0;
+}
+
+.theme_bg .btn.main_bt {
+    background: #fff;
+    color: #222;
+    text-shadow: none;
+}
+
+.blog_feature_cantant {
+    border-color:#3c5c9e;
+}
+
+.blog_feature_cantant li {
+	color: #3c5c9e;
+}
+
+.categary li:hover, .categary li:focus {
+    background:  #3c5c9e;
+}
+
+.tags a:hover, .tags a:focus {
+    border-color: #3c5c9e !important;
+}
+
+.social_icon ul li a:hover,
+.social_icon ul li a:focus {
+	color: #3c5c9e;
+}
+
+.read_more:hover, .read_more:focus {
+    color: #3c5c9e;
+}
+
+#accordion .panel.panel-default .panel-heading p a[aria-expanded="false"] i {
+    color: #3c5c9e !important;
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+}
+
+@media (min-width:768px) and (max-width:991px) {
+	
+.header_top ul li {
+    display: flex;
+}
+
+.brand_list li {
+    padding: 25px 15px;
+    margin: 0 .5%;
+}
+
+}
+
+@media (max-width:767px) {
+
+.main_heading h2 {
+    font-size: 32px;
+    line-height: 34px;
+}
+	
+}

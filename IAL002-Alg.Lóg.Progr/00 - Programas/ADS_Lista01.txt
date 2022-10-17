@@ -1,0 +1,311 @@
+# Aula 1 - Alg. 11/08/22
+
+	#DEFINIÇÃO VARIAVEL SISTEMA COLETANDO DADOS DO TECLADO. 
+	s = float(input("Digite o Salário - "))
+	#aumento
+	p = (int(input("Digite o Reajuste em % - "))/100)
+
+	#CALCULANDO PERCENTUAL AUMENTO.
+	p = s * p
+
+		
+	#RESULTADO SAIDA.
+
+	print("########################################")
+	print("#### Salario Inicial... - ", s ,"#######")
+	print("#### Aumento Real...... - ", p ,"######")
+
+	print("########################################")
+
+	#FORMATAÇÃO TEXTO UTILIZA O f ANTES 
+	print(f"#### Total Salario .... - {p + s:.2f}  ####")
+	print("########################################")
+
+
+
+# LISTA DE EXERCICIOS 1
+
+# Exercicio 1.
+# Faça um programa que peça dois números inteiros
+# e imprima a soma desses dois números.
+print("")
+#COLETANDO DADOS DO USUÁRIO
+
+n1 = int(input("DIGITE O PRIMEIRO NUMERO A SER REGISTRADO - "))
+n2 = int(input("DIGITE O SEGUNDO  NUMERO A SER REGISTRADO - "))
+
+
+#PRINTANDO NA TELA A SOMA DAS VARIAVEIS COLETADAS.
+
+print("O RESULTADO DA SOMA É : ", n1 + n2)
+
+
+###############################################################################
+###############################################################################
+###############################################################################
+
+# Exercicio 2.
+# Escreva um programa que leia um valor em metros
+# e o exiba convertido em milímetros
+print("")
+
+#COLETANDO DADOS DO USUÁRIO
+
+m1 = float(input("DIGITE O PRIMEIRO VALOR EM METROS PARA CONVERSÃO - "))
+
+#PRINTANDO NA TELA O RESULTADO DA CONVERSÃO
+
+print(f"O RESULTADO DA CONVERSÃO DE {m1:.2f} METRO(S) PARA MM É : {m1 * 10**3 :.2f}")
+
+
+###############################################################################
+###############################################################################
+###############################################################################
+
+
+# Exercicio 3.
+# Escreva um programa que leia a quantidade de dias,
+# horas, minutos e segundos do usuário. Calcule
+# o total em segundos.
+print("")
+
+
+#COLETANDO DADOS DO USUÁRIO
+
+dias = float(input("DIGITE O DIA PARA CONVERSÃO EM SEGUNDOS - "))
+horas = float(input("DIGITE A HORA PARA CONVERSÃO EM SEGUNDOS - "))
+minutos = float(input("DIGITE O MINUTOS PARA CONVERSÃO EM SEGUNDOS - "))
+segundos = float(input("DIGITE O PARA CONVERSÃO EM SEGUNDOS - "))
+
+
+#CONVERTENDO OS VALORES PARA SEGUNDO.
+
+dias = dias * 86400
+horas = horas * 3600
+minutos = minutos * 60
+
+
+#PRINTANDO NA TELA O RESULTADO DA CONVERSÃO
+
+print(f"SOMA DA CONVERSÃO D
+
+
+###############################################################################
+###############################################################################
+###############################################################################
+
+
+# Exercicio 4.
+# Faça um programa que calcule o aumento de um salário.
+# Ele deve solicitar o valor do salário e a
+# porcentagem do aumento. Exiba o valor do aumento e do novo salário.
+print("")
+
+
+#DEFINIÇÃO VARIAVEL SISTEMA COLETANDO DADOS DO TECLADO. 
+s = float(input("Digite o Salário - "))
+#aumento
+p = (int(input("Digite o Reajuste em % - "))/100)
+
+#CALCULANDO PERCENTUAL AUMENTO.
+p = s * p
+
+	
+#RESULTADO SAIDA.
+
+print("########################################")
+print("#### Salario Inicial... - ", s ,"#######")
+print("#### Aumento Real...... - ", p ,"######")
+
+print("########################################")
+
+#FORMATAÇÃO TEXTO UTILIZA O f ANTES 
+print(f"#### Total Salario .... - {p + s:.2f}  ####")
+print("########################################")
+
+
+
+###############################################################################
+###############################################################################
+###############################################################################
+
+
+# Exercicio 5.
+# Solicite o preço de uma mercadoria e o percentual de desconto.
+# Exiba o valor do desconto e o
+# preço a pagar.
+print("")
+
+#DEFINIÇÃO VARIAVEL SISTEMA COLETANDO DADOS DO TECLADO. 
+s = float(input("Digite o valor da mercadoria - "))
+
+#DESCONTO
+p = (int(input("DIGITE O VALOR DE DESCONTO APLICADO EM % - "))/100)
+
+#CALCULANDO PERCENTUAL DESCONTO.
+p = s * p
+
+	
+#RESULTADO SAIDA.
+
+print("########################################")
+print(f"#### VALOR INICAL DO PRODUTO..... - R$ {s:.2f}")
+print(f"#### DESCONTO APLICADO............ - R$ {p:.2f}")
+
+
+print("########################################")
+
+
+#FORMATAÇÃO TEXTO UTILIZA O f ANTES 
+print(f"#### VALOR DO PRODUTO REAJUSTADO - R$ {s - p:.2f}  ####")
+print("########################################")
+
+
+
+###############################################################################
+###############################################################################
+###############################################################################
+
+
+
+# Exercicio 6.
+#Calcule o tempo de uma viagem de carro. Pergunte a distância a percorrer e a velocidade média
+#esperada para a viagem.
+
+print("")
+
+#DEFINIÇÃO VARIAVEL SISTEMA COLETANDO DADOS DO TECLADO. 
+vm = float(input("DIGITE O VALOR DA VELOCIDADE MÉDIA EM KM/H - "))
+
+#DESCONTO
+d = float(input("DIGITE O VALOR DA DISTÂNCIA EM KM - "))
+
+#CALCULANDO TEMPO PREVISTO.
+t = d / vm
+
+	
+#RESULTADO SAIDA.
+print("")
+print("###############################################")
+print(f"#### VALOR TEMPO PREVISTO DA VIAGEM É {t:.2f} HORAS")
+
+
+###############################################################################
+###############################################################################
+###############################################################################
+
+
+# Exercicio 7.
+#Converta uma temperatura digitada em Celsius para Fahrenheit. F = 9*C/5 + 32
+
+print("")
+
+#DEFINIÇÃO VARIAVEL SISTEMA COLETANDO DADOS DO TECLADO. 
+ta = float(input("DIGITE O VALOR DA TEMPERATURA EM CELSIUS - "))
+
+#CALCULANDO TEMPERATURA EM GRAUS FAHRENHEIT
+ta = 9*ta/5 + 32
+
+	
+#RESULTADO SAIDA.
+print("")
+print("###############################################")
+print(f"#### TEMPERATURA EM GRAUS FAHRENHEIT É : {ta:.2f}")
+
+
+###############################################################################
+###############################################################################
+###############################################################################
+
+
+
+# Exercicio 8.
+#Converta uma temperatura digitada em Fahrenheit p/ Celsius
+
+print("")
+
+#DEFINIÇÃO VARIAVEL SISTEMA COLETANDO DADOS DO TECLADO. 
+ta = float(input("DIGITE O VALOR DA TEMPERATURA EM FAHRENHEIT - "))
+
+#CALCULANDO TEMPERATURA EM GRAUS FAHRENHEIT
+ta = (ta - 32) * 5/9
+
+	
+#RESULTADO SAIDA.
+print("")
+print("###############################################")
+print(f"#### TEMPERATURA EM GRAUS CELSIUS É : {ta:.2f}")
+
+
+
+###############################################################################
+###############################################################################
+###############################################################################
+
+
+
+# Exercicio 9.
+#Escreva um programa que pergunte a quantidade de km percorridos por um carro alugado pelo
+#usuário, assim como a quantidade de dias pelos quais o carro foi alugado. Calcule o preço a pagar,
+#sabendo que o carro custa R$ 60,00 por dia e R$ 0,15 por km rodado.
+
+print("")
+
+#DEFINIÇÃO VARIAVEL SISTEMA COLETANDO DADOS DO TECLADO. 
+km = float(input("DIGITE O TOTAL DE KM RODADOS - "))
+
+#DIAS LOCADOS
+dias = int(input("DIGITE QUANTIDADE DE DIAS LOCADOS - "))
+
+
+
+
+#CALCULANDO TEMPO PREVISTO.
+km = km * 0.15
+dias = dias * 60.00
+
+	
+#RESULTADO SAIDA.
+print("")
+print("###############################################")
+print(f"#### VALOR TOTAL GASTO COM LOCAÇÃO R$ {dias + km :.2f} ")
+
+
+
+# Exercicio 10.
+#Escreva um programa para calcular a redução do tempo de vida de um fumante. Pergunte a
+#quantidade de cigarros fumados por dia e quantos anos ele já fumou. Considere que um fumante
+#perde 10 minutos de vida a cada cigarro, calcule quantos dias de vida um fumante perderá. Exiba o
+#total de dias.
+
+print("")
+
+#DEFINIÇÃO VARIAVEL SISTEMA COLETANDO DADOS DO TECLADO. 
+anos = float(input("DIGITE TEMPO EM ANOS QUE O USUÁRIO É FUMANTE - "))
+
+#DIAS LOCADOS
+cigarros = float(input("QUANTIDADE DE CIGARROS FUMADOS POR DIA PELO USUÁRIO - "))
+
+
+#CALCULANDO TEMPO PREVISTO.
+total = ((cigarros * 365) * anos)*0.000694444
+
+	
+#RESULTADO SAIDA.
+print("")
+print("###############################################")
+print(f"#### VALOR ESTIMADO DE PERDA ESTIMATIVA DE VIDA EM DIAS É {total:.0f}")
+
+
+# Exercicio 11.
+# Sabendo que str( ) converte valores numéricos para string, calcule quantos dígitos há em 2 elevado
+# a um milhão.
+
+print("")
+
+#CONVERTENDO E VERIFICANDO QUANTIDADE DE ITENS  
+a = len(str(2**1000000))
+
+print(a)
+
+

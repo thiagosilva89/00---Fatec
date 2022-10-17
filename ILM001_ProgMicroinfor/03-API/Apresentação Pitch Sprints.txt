@@ -1,0 +1,17 @@
+PITCH - Apresentação (tempo: 4 a 5 min) 
+– Estrutura: 
+1. Apresentação da Equipe com foto; 
+2. Objetivo do Projeto (temática e problema fornecido); 
+3. Backlog total (e sua evolução); 
+4. Backlog da Sprint (Funcionalidades e Wireframes/Mockup); 
+5.Burndown da Sprint; 
+6. Tecnologias + Artefatos empregados na Sprint#; 
+7. Vídeo ou Gif animado do software rodando são obrigatórios (features da Sprint); 
+8. Agradecimentos finais.
+Orientação: use linguagem formal.
+
+
+
+
+
+

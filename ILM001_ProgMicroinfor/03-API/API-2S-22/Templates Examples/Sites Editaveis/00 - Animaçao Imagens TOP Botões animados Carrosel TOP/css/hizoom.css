@@ -1,0 +1,43 @@
+.hizoom {
+    position: relative;
+    z-index:10;
+}
+
+.hizoom .magnifier {
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    display: none;
+    cursor: move;
+}
+
+.hizoom .small {
+    position: absolute;
+    border: none;
+}
+
+.hizoom .big {
+    position: absolute;
+    border: 1px solid #ddd;
+}
+
+.hizoom .small {
+    top: 0;
+    left: 0;
+    cursor: move;
+}
+
+.hizoom .big {
+    overflow: hidden;
+    display: none;
+}
+
+.hizoom .small img,
+.hizoom .big img {
+    position: absolute;
+    top: 0;
+    left: 0;
+}

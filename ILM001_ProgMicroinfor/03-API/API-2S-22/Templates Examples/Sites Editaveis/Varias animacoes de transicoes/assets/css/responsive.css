@@ -1,0 +1,191 @@
+/*-----------------------------------
+    Small devices (landscape phones, 576px and up)
+------------------------------------*/
+@media (min-width: 576px) {
+  .top-header {
+    padding: 25px 0 15px;
+  }
+  .hero .slide-content {
+    min-height: 700px;
+  }
+  .hero .slide-content h1 {
+    margin-top: 100px;
+  }
+  .recent-posts .row .col-lg-6:nth-of-type(odd) .post-thumb {
+    margin-top: 0;
+    margin-left: 25px;
+  }
+  .recent-posts .row .col-lg-6:nth-of-type(even) .post-thumb {
+    margin-bottom: 0;
+    margin-right: 25px;
+  }
+}
+
+/*-----------------------------------
+    Medium devices (tablets, 768px and up)
+------------------------------------*/
+@media (min-width: 768px) {
+  .navbar-brand img {
+    width: 100px;
+  }
+  .navbar-expand-md .navbar-nav .nav-link {
+    padding: 8px 10px;
+  }
+  .navbar-expand-md .navbar-nav .nav-item {
+    margin-right: 12px;
+  }
+  .navbar-collapse .nav-link {
+    font-size: 0.875rem;
+    position: relative;
+  }
+  .navbar-collapse .nav-link::before {
+    content: "\f0d8";
+    font-family: FontAwesome;
+    color: #de1f1f;
+    position: absolute;
+    bottom: 7px;
+    line-height: 0;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%);
+    opacity: 0;
+    transition: all 0.35s ease;
+  }
+  .navbar-collapse .nav-link::after {
+    content: "";
+    width: 0;
+    height: 4px;
+    background-color: #de1f1f;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transition: all 0.35s ease;
+  }
+  .navbar-collapse .nav-link:hover::after {
+    width: 100%;
+    left: 0;
+  }
+  .navbar-collapse .nav-link:hover::before {
+    opacity: 1;
+  }
+  .navbar-collapse .search-form {
+    padding: 10px;
+    position: absolute;
+    right: 0;
+    top: 100%;
+    display: none;
+    opacity: 0;
+    transition: all 0.35s ease-in-out;
+  }
+  .navbar-collapse .search-form.show {
+    display: block;
+    opacity: 1;
+  }
+  .navbar-collapse .search-form input[type="text"] {
+    border: 1px solid #ced4da;
+    color: #343a40;
+    padding: 1.5313rem 0.625rem;
+  }
+  .navbar-collapse .search-form .btn {
+    margin-top: 0;
+  }
+  .navbar-collapse .search-form input[type="submit"] {
+    border: 1px solid #ced4da;
+    margin-left: -1px;
+    border-radius: 0;
+  }
+  .group {
+    order: 2;
+  }
+  .cart,
+  .search-icon {
+    font-size: 0.875rem;
+  }
+  .cart:hover,
+  .search-icon:hover {
+    color: #ee1515;
+  }
+  .search-icon {
+    margin: 0 13px;
+    order: 1;
+  }
+  .hero .slide-content h1 {
+    font-size: 3.5rem;
+  }
+  .hero .slide-content br {
+    display: block;
+  }
+  .hero .arr-left,
+  .hero .arr-right {
+    top: 50%;
+  }
+  .featured-img {
+    height: 100%;
+    margin-top: -66px;
+  }
+  .cta-content {
+    border-top-right-radius: 200px;
+    border-bottom-left-radius: 200px;
+  }
+  .cta-content::after {
+    border-top-right-radius: 200px;
+    border-bottom-left-radius: 200px;
+  }
+  .cta-content .subscribe-btn {
+    align-self: flex-end;
+    margin-right: 30px;
+  }
+}
+
+/*-----------------------------------
+    Large devices (desktops, 992px and up)
+------------------------------------*/
+@media (min-width: 992px) {
+  .navbar-expand-md .navbar-nav .nav-link {
+    padding: 8px 13px;
+  }
+  .navbar-expand-md .navbar-nav .nav-item {
+    margin-right: 22px;
+  }
+  .hero .slide-content {
+    min-height: 100vh;
+  }
+  .hero .slide-content h1 {
+    font-size: 4.5rem;
+  }
+  .hero .slide-content br {
+    display: block;
+  }
+  .hero .arr-left,
+  .hero .arr-right {
+    top: 50%;
+  }
+  .title h1 {
+    font-size: 48px;
+  }
+}
+
+/*-----------------------------------
+    Extra large devices (large desktops, 1200px and up)
+------------------------------------*/
+@media (min-width: 1200px) {
+  .navbar-brand img {
+    width: auto;
+  }
+  .title h1 {
+    font-size: 58px;
+  }
+  .trust .title {
+    padding-top: 70px;
+  }
+  .trust ul {
+    padding-bottom: 30px;
+  }
+  .trust .gallery {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    padding: 75px 0;
+  }
+}

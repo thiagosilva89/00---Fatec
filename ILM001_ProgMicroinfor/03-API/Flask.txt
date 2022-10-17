@@ -1,0 +1,120 @@
+FLASK OU FRAMWORK DJANGO
+
+
+FLASK MENOR DESEMPENHO PORÉM PARA ATENDER PEQUENOS PROJETOS. 
+
+SITE OFICIAL DO FLASK https://flask.palletsprojects.com/en/2.2.x/
+
+FLASK IRÁ FAZER PAPEL DE SERVIDOR. 
+PYTHON FARA O PROCESSO DE BACKEND
+
+CLIENTE NAVEGADOR >>>>>>>>>>>>> 	SERVIDOR FLASK
+
+		REQUEST		>>>	
+							<<<< 	RESPONSE
+								
+						
+						
+PARA INSTALAR O FLASK É NECESSÁRIO O PYTHON 3.6 OU >. 
+
+DEPENDÊNCIAS:
+	WERZEUG - IMPLEMENTA A WSGU A INTERGAVE DE PYTHON PADRÃO ENTRE APLICATIVOS E SERVIDOR.
+	JINJA 	- É UMA LINHUAGEM DE TEMPLATE QUE RENDERIZA AS PÁGINAS.
+	
+	
+	
+AMBIENTES VIRTUAIS. 
+	EMULA AMBIENTES NA MAQUINA REAL.
+	PARA CADA PROJETO SE CRIA UM AMBIENTE VIRTUAL. 
+	
+	
+
+
+CRIAR UMA PASTA NA ÁREA DE TRABALHO. 
+
+CTRL ' = CHAMA O TERMINAL DO VISUAL STUDIO.
+python--version
+python -m venv venv >> PRIMEIRO NOME OBG SEGUNDO NOME DO AMBIENTE VIRTUAL. BOAS PRATICAS "VENV"
+"PS C:\Users\gz19nx\Desktop\PROJETO> python -m venv venv"
+
+"NESSE PASSO FOI CRIADO O AMBIENTE VIRTUAL OFFILE."
+.\venv\Scripts\activate
+
+Quando der erro precisa ser liberada alterado as politicas proteção necessário abrir POWERSHELL
+Set-ExecutionPolicy -ExecutionPolicy AllSigned
+
+
+
+No terminal do VCode apresentará o código abaixo.
+"Deseja executar o software deste fornecedor não confiável?
+O arquivo C:\Users\gz19nx\Desktop\PROJETO\venv\Scripts\Activate.ps1 é publicado por CN=Python Software Foundation,       
+O=Python Software Foundation, L=Beaverton, S=Oregon, C=US e não é confiável para o seu sistema. Execute apenas scripts   
+de fornecedores confiáveis.
+[X] Nunca executar  [N] Não executar  [R] Executar uma vez  [A] Sempre executar  [?] Ajuda (o padrão é "N"): R
+(venv) PS C:\Users\gz19nx\Desktop\PROJETO>"
+
+
+PARA DESATIVAR O SERVIDOR .\venv\Scripts\deactivate
+
+
+
+
+INSTALAÇÃO DO FLASK. 
+
+	pip install flask OU py -m pip install
+	
+	flask --version
+	
+	
+LIMPA TELA CTRL + L
+
+
+pip freeze >>> COMANDO VERIFICA OS ITENS QUE FORAM INSTALADOS.
+
+
+
+Primeiro exemplo de flask. 
+
+	Exemplo hello.py :>>>> NESSE CASO DEVE INFORMAR NA VARIAVEL 
+	Nesse exemplo irá ser criado app.py pois é o nome padrão e não precisa alterar diretorio.
+	
+	
+	From flask import Flask >>>> Importa biblioteca
+	
+	app = Flask("__name__") >>> Definindo aplicação em flask.
+	
+	NO TERMINAL >>> flask run >>> NESSE PASSO ESTÁ RODANDO O SERVIDOR COLOCANDO O IP QUE FOI GERADO SERÁ LOCALIZADO A PAGINA HTML
+	
+	
+	CRIANDO UMA ROTA: 
+		@app.route("/") #criando rotas com decorator quando é utilizado / é definido HOME
+		
+		CRIANDO FUNÇÃO
+		def home():
+			return "<h1>Servidor Flask Funcionando!!<h1>"
+			
+			
+COMANDO CTRL + C ENCERRA SERVIDOR.
+
+	
+	
+	CRIANDO UM TEMPLATE 
+	
+		CRIA UMA PASTA HMTL "index.html"
+		
+		
+	From flask import Flask, render_template >>>> Importa biblioteca e cria render
+	
+		CRIANDO UMA ROTA COM TEMPLATE: 
+		@app.route("/") #criando rotas com decorator quando é utilizado / é definido HOME
+		
+		CRIANDO FUNÇÃO
+		def home():
+			return render_template("index.html")
+			
+			
+			
+			
+	
+
+

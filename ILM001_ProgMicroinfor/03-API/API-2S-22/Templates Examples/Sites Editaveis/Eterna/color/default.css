@@ -1,0 +1,243 @@
+/*
+Default accent color
+
+*/
+a:hover {
+	color:#e96b56;
+}
+#inner-headline ul.breadcrumb li a {
+	color:#e96b56;
+}
+
+/* heading */
+h1 span.colored, h2 span.colored,h3 span.colored,h4 span.colored,h5 span.colored,h6 span.colored {
+	color:#e96b56;
+}
+
+/* menu */
+.navbar nav ul.nav li.dropdown ul.dropdown-menu li a:active,.navbar nav ul.nav li.dropdown ul.dropdown-menu li a:focus {
+  background: #e96b56;
+}
+ul.topmenu li a:hover {
+	color:#e96b56;
+}
+
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus {
+  background: #e96b56;
+}
+
+header ul.nav .dropdown-menu li > a:hover,
+.dropdown-menu li > a:focus,
+.dropdown-submenu:hover > a, 
+.dropdown-menu .active > a,
+.dropdown-menu .active > a:hover {
+  background: #e96b56;
+}
+
+/* slider */
+.camera_prev > span:before {
+  background: #e96b56;
+}
+.camera_next > span:before {
+  background: #e96b56;
+}
+
+/* parallax c slider */
+.da-arrows span.da-arrows-prev:before {
+  background: #e96b56;
+}
+.da-arrows span.da-arrows-next:before {
+  background: #e96b56;
+}
+.da-slide .da-link:hover{
+	background: #e96b56;
+	border: 4px solid #e96b56;
+}
+
+.da-dots span{
+	background: #e96b56;
+}
+
+
+/* form */
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+  border-color: #e96b56;
+}
+
+form#contactform .validation {
+	color:#e96b56;
+}
+#sendmessage {
+	border:1px solid #e96b56;
+
+}
+
+/* tabs */
+div.tabs  ul.nav-tabs li.active a {
+	border-top: 2px solid #e96b56;
+	color:#e96b56;
+}
+div.tabbable.tabs-left  ul.nav-tabs li.active a {
+	border-left: 2px solid #e96b56;
+		color:#e96b56;
+}
+div.tabbable.tabs-right  ul.nav-tabs li.active a {
+	border-right: 2px solid #e96b56;
+		color:#e96b56;
+}
+
+.accordion-heading a.active,.accordion-heading a.active i {
+	color:#e96b56;
+}
+
+/* icon */
+[class^="icon-"].active {
+	color:#e96b56;
+}
+
+a i.icon-bglight:hover,
+a i.icon-bgdark:hover {
+  background: #e96b56;
+}
+i.icon-bglight.active {
+  background: #e96b56;
+}
+
+i.icon-bgdark.active {
+  background: #e96b56;
+}
+ul.styledlist li:before {
+	color:#e96b56;
+}
+
+/* logo icon */
+.logo h1 [class^="icon-"] {
+	color:#e96b56;
+}
+
+.footer_logo h3 [class^="icon-"] {
+	color:#e96b56;
+}
+
+/* CTA */
+.cta-text h2 span {
+	color:#e96b56;
+}
+
+/*-- button -- */
+.btn-theme {
+  border:1px solid #e96b56;
+  background: #e96b56;
+}
+
+/* content */
+.box:hover .text h4 {
+	color:#e96b56;
+}
+#inner-headline ul.breadcrumb li a:hover {
+	color:#e96b56;
+}
+
+a.thumbnail:hover,
+a.thumbnail:focus {
+  border-color: #e96b56;
+}
+
+/* blog */
+article .post-heading h3 a {
+	text-decoration:none;
+	color:#e96b56;
+}
+
+.post-entry a.readmore:hover {
+	color:#e96b56;
+}
+
+ul.cat li a:hover, ul.folio-detail li a:hover {
+	color:#e96b56;
+}
+
+.meta-post a,.meta-post ul li i {
+  color: #e96b56;
+}
+
+
+.meta-bottom li a:hover {
+	color:#e96b56;
+}
+
+#pagination a:hover {
+  background: #e96b56;
+}
+
+
+/* widgets */
+ul.popular li a {
+	color:#e96b56;
+}
+
+/* component */
+.pagination ul > .active > a,
+.pagination ul > .active > span {
+  background: #e96b56;
+  border:1px solid #e96b56;
+}
+.pagination ul > .active > a:hover,
+.pagination ul > .active > span:hover {
+  background: #e96b56;
+  border:1px solid #e96b56;
+}
+.pagination ul > li > a:hover{
+  color:#e96b56;
+}
+
+.pullquote-left {
+	border-left:5px solid #e96b56;
+}
+
+.pullquote-right {
+	border-right:5px solid #e96b56;
+}
+
+.pricing-box-wrap.special .pricing-heading {
+	background: #e96b56;
+}
+
+/* portfolio */
+ul.portfolio-categ.filter li.active a {
+  color:#e96b56;
+}
+
+/* portfolio */
+ul.team-categ.filter li.active a {
+  color:#e96b56;
+}
+
+.grid figcaption {
+	background: #e96b56;
+}
+
+/* footer */
+footer a:hover {
+	color:#e96b56;
+}
+footer ul.link-list li a:hover {
+	color:#e96b56;
+}

@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FATEC: Relatar Problemas</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=0.1">
+
+    <style>
+        body {
+            margin: 0; padding: 0; border: 0;
+            overflow: hidden;
+            background-image: linear-gradient(#2c2d32, #0f0f12);
+            background-repeat: no-repeat;
+            background-position: right top;
+            background-attachment: fixed;
+        }
+        a {
+            color: #AF0B17;
+            text-decoration: none;
+        }
+        .subdiv {
+            display: block;
+            height: 100%;
+            width: 100%;
+            text-decoration: none;
+            display: inline;
+        }
+
+        .logobox {
+            padding: 0; margin: 0; border: 0;
+            padding-top: 3.5vh;
+            padding-left: 10vw;
+            font-family: "Arial";
+            user-select: none;
+        }
+
+        .admbox {
+            position: absolute;
+            right: 0;
+            padding: 0; margin: 0; border: 0;
+            padding-top: 3.5vh;
+            padding-right: 10vw;
+            font-family: "Arial";
+            user-select: none;
+        }
+        
+        .fatec {
+            color: #42555f;
+            font-size: 10vmin;
+            letter-spacing: 0px;
+            font-weight: 700;
+            line-height: 5.5vmin;
+        }
+        .sjc {
+            color: #AF0B17;
+            font-size: 3vmin;
+            letter-spacing: 0px;
+            font-align: right;
+            font-weight: 700;
+            line-height: 3vmin;
+        }
+        .prof {
+            color: #455862;
+            font-size: 2vmin;
+            letter-spacing: 0px;
+            font-weight: 700;
+            line-height: 2.5vmin;
+        }
+ 
+        .fatec:hover { color: #48616D; }
+        .fatec:hover ~ .sjc { color: #CD101D; }
+        .fatec:hover ~ .prof { color: #506D7C; }
+        .fatec:active ~ .fatec { color: #4A6B7B; }
+        .fatec:active ~ .sjc { color: #DB0A19; }
+        .fatec:active ~ .prof { color: #527689; }
+        
+        .admtxt {
+            font-size: 3vmin;
+            font-weight: 700;
+            color: #AF0B17;
+            font-family: "Verdana";
+        }
+        .admtxt:hover {
+            cursor: pointer;
+            color: #CD101D;
+        }
+        .admtxt:active {
+            color: #DB0A19;
+        }
+
+        .mediaicon {
+            margin-top: 2.5vmin;
+            display: inline-block;
+            background-size: cover;
+            width: 5vmin;
+            height: 5vmin;
+        }
+        .botaobox {
+            position: absolute;
+            left: 37.5vw;
+            right: 37.5vw;
+            top: 4vmin;
+            text-align: center;
+        }
+        .botao {
+            color: #af0b17;
+            height: 10vmin;
+            width: 110%;
+            font-family: Verdana;
+            font-size: 2.5vmin;
+            font-weight: 700;
+            background-color: #202024;   
+            border: 0.5vmin solid #42555f;
+            border-radius: 5vmin;
+            padding: 2px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 3vmin;
+            margin: 1vmin;
+            outline: none;
+        }
+        .botao:hover {
+            cursor: pointer;
+            background-color: #252529;
+        }
+        .botao:active {
+            background-color: #28282B;
+        }
+
+        .reportbox {
+            margin-top: 3vh;
+            left: 10vw;
+            height: 70vh;
+            width: 80vw;
+            border-radius: 20px;
+            border: 0.5vmin solid #42555F;
+            background-color: #202024;
+            font-family: "Verdana";
+            font-size: 2.5vmin;
+            color: #AF0B17;
+            visibility: hidden;
+        }
+        .reporttext {
+            padding: 1vmin;
+            text-align: left;
+            padding-left: 3vmin; padding-right: 3vmin;
+            user-select: none;
+        }
+        .txtarea {
+            padding-left: 6px; padding-right: 6px;
+            padding-top: 6px; padding-bottom: 6px;
+            background-color: #272829;
+            border-radius: 10px;
+            border: 0.1vmin solid #42555f;
+            outline: none;
+            width: 97.5%;
+            height: 87.5%;
+            resize: none;
+            font-family: "Verdana";
+            font-size: 2.75vmin;
+            color: #FFFFFF;
+        }
+        .reportinput {
+            padding-left: 6px; padding-right: 6px;
+            background: #272829;
+            border: 0.1vmin solid #42555f;
+            outline: none;
+            font-family: "Verdana";
+            font-size: 2.75vmin;
+            color: #FFFFFF;
+            width: 10vmin;
+            user-select: none;
+            outline: none;
+        }
+
+        .sendinput {
+            float: right; font-size: 3vmin;
+        }
+        .sendinput:hover { 
+            color: #CD101D;
+            cursor: pointer;
+        }
+        .sendinput:active { 
+            color: #DB0A19;
+        }
+
+    </style>
+</head>
+
+{% comment %} INSERIDO URL FOR PARA CHAMADA INTERNA {% endcomment %}
+<body>
+    <div class="admbox"><span class="adm"><a href="{{ url_for("admin")}}" class="admtxt">&nbsp;&nbsp;Administrador&nbsp;&nbsp;</a></span><br>
+    <center>
+        <a href="https://www.facebook.com/fatecjessenvidal" class="subdiv"><div class="mediaicon" style="background-image: url('https://cdn-icons-png.flaticon.com/512/3536/3536394.png')"></div></a>
+        <a href="https://www.linkedin.com/school/fatecjessenvidal" class="subdiv"><div class="mediaicon" style="background-image: url('https://cdn-icons-png.flaticon.com/512/3536/3536505.png')"></div></a>
+        <a href="https://www.instagram.com/fatecsaojosedoscampos/" class="subdiv"><div class="mediaicon" style="background-image: url('https://cdn-icons-png.flaticon.com/512/1409/1409946.png')"></div></a>
+        <a href="https://www.youtube.com/channel/UCRTd_ST0vPqXi4w_ZdfXtiw" class="subdiv"><div class="mediaicon" style="background-image: url('https://cdn-icons-png.flaticon.com/512/1384/1384060.png')"></div></a>
+    </center></div>
+    <div class="logobox"><a href="https://fatecsjc-prd.azurewebsites.net/">
+        <span class="fatec">Fatec</span><br>
+        <span class="sjc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            São José dos 
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Campos</span><br>
+        <span class="prof">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            Prof. Jessen Vidal</span>
+    </a></div>
+    <div class="botaobox">
+        <button class="botao" onclick="showBox();">Reporte aqui seu Problema</button>
+    </div>
+
+    <center>
+    <form id="formulario" name="formulario" method="post" action="/test.php">
+    <div class="reportbox" id="reportbox">
+        <div class="reporttext">
+            Sala:
+            <input type="text" id="sala" name="sala" class="reportinput">
+            Computador:
+            <input type="text" id="sala" name="sala" class="reportinput">
+            <span onclick="sendForm()" class="sendinput">Enviar</span>
+        </div>
+        <div class="reportmid"></div>
+        <textarea id="descricao" name="descricao" class="txtarea"></textarea>
+    </div>
+    </form>
+    </center>
+
+    <script>
+        function showBox() {
+            if (document.getElementById("reportbox").style.visibility == "visible"){
+                document.getElementById("reportbox").style.visibility = "hidden";
+            } else {
+                document.getElementById("reportbox").style.visibility = "visible";
+            }
+        }
+        function sendForm() {
+            document.getElementById('formulario').submit();
+        }
+    </script>
+
+</body>
+</html>

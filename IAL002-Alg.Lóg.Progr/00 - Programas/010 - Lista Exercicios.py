@@ -139,7 +139,8 @@ def end_other(a, b):
 # count_evens([2, 2, 0]) -> 3
 # count_evens([1, 3, 5]) -> 0
 def count_evens(nums):
-  return 
+  number = [i for i in range(len(nums)) if nums[i] % 2 == 0]  
+  return len(number)
 
 # J. sum13 #
 # retorna a soma dos números de uma lista
@@ -149,7 +150,26 @@ def count_evens(nums):
 # sum13([1, 2, 2, 1, 13]) -> 6
 # sum13([13, 1, 2, 3, 4]) -> 0
 def sum13(nums):
-  return 
+  j =-1
+  numbers = 0
+  for i in range(len(nums)):
+    if nums[i] == 13:
+      j = i
+      break
+  
+  if j == 0: 
+    numbers = 0
+  
+  elif j >=1:
+    for i in range(j):
+      numbers = numbers + nums[i]
+  
+  else:
+    for i in range(len(nums)):
+      numbers = numbers + nums[i]
+
+  
+  return numbers
 
 # K. has22 #
 # Verifica se na lista de números inteiros aparecem dois 2 consecutivos
@@ -157,7 +177,15 @@ def sum13(nums):
 # has22([1, 2, 1, 2]) -> False
 # has22([2, 1, 2]) -> False
 def has22(nums):
-  return
+  x = 0
+  for i in range(len(nums)-1):
+    if nums[i] == nums[i+1]:
+      return True
+      x = 1
+      break
+  if x == 0:
+    return False
+      
 
 # L. soma_na_lista #
 # Verifica se um número é soma de dois elementos distintos de uma lista

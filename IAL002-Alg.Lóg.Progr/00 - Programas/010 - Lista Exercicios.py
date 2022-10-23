@@ -177,7 +177,11 @@ def has22(nums):
 # soma_na_lista(4, [2, 2, 2, 2]) -> False
 # soma_na_lista(4, [2, 2, 1, 3]) -> True
 def soma_na_lista(n, lista):
-  return
+  for i in range(len(lista)):
+        for j in range(i+1, len(lista)):
+            if lista[i] + lista[j] == n and lista[i] != lista[j]:
+                return True
+  return False
 
 # M.Difícil: Fila de tijolos sem usar loops #
 # queremos montar uma fila de tijolos de um tamanho denominado meta
@@ -188,7 +192,7 @@ def soma_na_lista(n, lista):
 # fila_tijolos(3, 1, 9) -> False
 # fila_tijolos(3, 2, 10) -> True
 def fila_tijolos(n_peq, n_gra, meta):
-  return
+  return n_peq>= meta %5 and n_peq + 5 * n_gra >= meta
 
 # Provided simple test() function used in main() to print
 # what each function returns vs. what it's supposed to return.

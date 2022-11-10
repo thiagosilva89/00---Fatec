@@ -22,7 +22,10 @@ def donuts(n):
 # Assim 'palmeiras' retorna 'paas'
 # No entanto, se a string tiver menos que 2 letras, retorna uma string vazia
 def pontas(s):
-  return
+  if len(s):
+    return s.clear
+  else:
+    return (i if len(s) < 1)
 
 # C. fixa_primeiro
 # Dada uma string s, retorna uma string onde todas as ocorrências
@@ -58,7 +61,7 @@ def palindrome(s):
 # palavra = 'ana'
 # busca ('ana e mariana gostam de banana', 'ana') == 4
 def busca(frase, palavra):
-  return 
+  return len([i for i in range(len(frase)-len(palavra)+1) if frase[i:i + len(palavra)] == palavra[0:]])
 
 # Provided simple test() function used in main() to print
 # what each function returns vs. what it's supposed to return.

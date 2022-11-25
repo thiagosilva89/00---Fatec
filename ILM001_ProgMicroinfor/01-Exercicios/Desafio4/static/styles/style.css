@@ -1,0 +1,40 @@
+div {
+    margin-top: 21.5px;
+    padding: 0px 200px 0px 220px;
+}
+
+div.a {
+    padding: 0px 160px 0px 200px;
+}
+
+span {
+    float: right;
+    padding: 20px 7px 0px 0px;
+}
+
+a {
+    float: right;
+    padding: 20px 10px 0px 0px;
+}
+
+#users{
+    text-align: center;
+    
+}
+
+footer{
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 0%;
+}
+
+div.c {
+    padding: 0px 160px 0px 200px;
+    margin-bottom: 50px;
+}
+
+
+div.quem {
+    padding: 0px 160px 0px 200px;
+    margin-bottom: 50px;
+}

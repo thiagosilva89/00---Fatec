@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block contents %}
+<table id="users" class="display" style="width: 50%; margin: auto;">
+    <thead>
+        <tr>
+            <th>E-mail</th>
+            <th>Assunto</th>
+            <th>Descrição</th>
+
+        </tr>
+    </thead>
+    
+    {% for user in userDetails %}
+    
+    <tbody>
+        <tr>
+            <td>{{user[1]}}</td>
+            <td>{{user[2]}}</td>
+            <td>{{user[3]}}</td>
+        </tr>
+    </tbody>
+   
+
+    {% endfor %}
+
+    <tbody>
+        <tr>
+            <td>Maravilhosa</td>
+            <td>Flask</td>
+            <td>HTML</td>
+        </tr>
+    </tbody>
+
+</table>
+{% endblock contents %}

@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block contents %}
+    <div>
+        <h1>Entre em contato</h1>
+
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti asperiores, autem dicta ab ex quaerat
+            ratione aut reiciendis.</p>
+    </div>
+
+    <hr style="width:68%">
+
+    <div>
+    <form method="POST" action="/contact" name="cadastro">
+        Seu e-mail:<br>
+        <input type="text" name="femail" required><br>
+
+        Assunto:<br>
+        <input type="text" name="fassunto" required><br>
+
+        Descrição:<br>
+        <input type="text" name="fdescricao" required><br><br>
+
+        <button type="submit" value="Enviar">Enviar</button>
+    </form>
+    </div>
+{% endblock contents %}

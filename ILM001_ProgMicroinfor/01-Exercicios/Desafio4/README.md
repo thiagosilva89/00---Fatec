@@ -31,7 +31,7 @@ Páginas: Home, Quem Somos e Contato.
 ```
 
 ```python
-	env\Scripts\Activate.ps1
+	venv\Scripts\Activate.ps1
 ```
 
 <h3>Em seguida deverá instalar o Flask e o mariadb com o comando a baixo:</h3>

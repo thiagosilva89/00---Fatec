@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="{{url_for('static', filename='style/style.css')}}">
+  <link rel="icon" type="image/png" href="{{url_for('static', filename='assets/icon.png')}}" />
+  <link rel="icon" type="image/jpg" href="{{url_for('static', filename='assets/icon.jpg')}}" />
+  <title>Contato</title>
+</head>
+
+<body class="hm2">
+  <header class="header">
+    <img src="{{url_for('static', filename='assets/logo.png')}}" alt="logo">
+    <div class="home">
+      <ul>
+        <li><a href="/">Home</a></li> <span>|</span>
+        <li><a href="/quem-somos">Quem somos</a></li> <span>|</span>
+        <li><a href="/contatos">Contato</a></li> <span>|</span>
+        <li><a href="/users">Usuários</a></li>
+      </ul>
+    </div>
+  </header>
+
+</body>
+<form class="quem" action="/contatos" method="POST">
+  <h1>Entre em contato</h1>
+  <span>Você pode entrar em contato conosco inserindo seus dados:</span>
+  <hr size="1">
+  <span>Seu email:</span><br>
+  <input type="text" name="email"><br>
+  <span>Assunto:</span><br>
+  <input type="text" name="assunto"><br>
+  <span>Descrição:</span><br>
+  <textarea name="descricao" id="descrição" cols="19" rows="2"></textarea>
+  <h2>Todos os direitos reservados</h2>
+  <button type="submit">Enviar</button>
+</form>
+
+</html>

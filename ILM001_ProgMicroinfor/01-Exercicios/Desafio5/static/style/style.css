@@ -1,0 +1,68 @@
+div ul li {
+  display: inline;
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+img {
+  margin-top: 22px;
+}
+h2 {
+  font-size: 13pt;
+  text-align: center;
+  margin-top: 40px;
+}
+hr {
+  width: 1430px;
+}
+h1 {
+  font-size: 20pt;
+}
+.home {
+  text-align: end;
+  margin-right: 240px;
+}
+.header {
+  display: flex;
+  margin-left: 240px;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.capa {
+  position: relative;
+  text-align: center;
+  margin-top: 3px;
+}
+.sobre {
+  width: 897px;
+  margin: auto;
+}
+.hm {
+  background-image: url(../img/fundo.png);
+  margin: 0;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14pt;
+}
+.hm2 {
+  background-image: url(../img/fundo2.png);
+  margin: 0;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14pt;
+}
+.quem {
+  width: 1430px;
+  margin: auto;
+  margin-top: 70px;
+}
+.motivos {
+  list-style-type: decimal;
+}
+#descrição {
+  height: 50px;
+  width: 140px;
+}
+#botao {
+  cursor: pointer;
+}

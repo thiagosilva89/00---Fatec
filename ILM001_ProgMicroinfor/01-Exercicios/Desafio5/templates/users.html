@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <link rel="icon" type="image/png" href="{{url_for('static', filename='assets/icon.png')}}" />
+    <link rel="icon" type="image/jpg" href="{{url_for('static', filename='assets/icon.jpg')}}" />
+    <meta charset="UTF-8">
+    <title>Users</title>
+
+    <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='css/style.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/normalize.css')}}">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.css">
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+
+    <table id="users" class="display">
+        <thead>
+
+            <tr>
+                <th>E-mail</th>
+                <th>Assunto</th>
+                <th>Descrição</th>
+
+            </tr>
+        </thead>
+
+        {% for user in userDetails %}
+
+        <tbody>
+            <tr>
+                <td>{{user[0]}}</td>
+                <td>{{user[1]}}</td>
+                <td>{{user[2]}}</td>
+            </tr>
+        </tbody>
+
+
+        {% endfor %}
+
+
+    </table>
+
+
+
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#users').DataTable({
+                "language": {
+                    "lengthMenu": "Mostrando _MENU_ registros por página",
+                    "zeroRecords": "Nada encontrado",
+                    "info": "Mostrando página _PAGE_ de _PAGES_",
+                    "infoEmpty": "Nenhum registro disponível",
+                    "infoFiltered": "(filtrado de _MAX_ registros no total)"
+                }
+            });
+        });
+    </script>
+
+    <script>
+        $(document).ready(function () {
+            $('#example').DataTable({
+                "ajax": "data/objects.txt",
+                "columns": [
+                    { "data": "email" },
+                    { "data": "assunto" },
+                    { "data": "descricao" }
+
+                ]
+            });
+        });
+    </script>
+
+</body>
+
+</html>
